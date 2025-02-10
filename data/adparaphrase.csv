@@ -1,0 +1,1239 @@
+index,ad1,ad2,source_ad1,source_ad2,count.nonparaphrase,count.paraphrase,count.preference_skip,count.preference_ad1,count.preference_ad2
+0,まずは、無料カウンセリングから,無料カウンセリングはこちらから,adsimilarity,adsimilarity,0,5,0,6,4
+1,【最新62巻】大好評配信,【最新巻62巻】大好評配信,adsimilarity,adsimilarity,0,5,4,2,4
+2,12時までの注文で最短当日発送,12時までのご注文で最短当日発送,adsimilarity,adsimilarity,0,5,3,1,6
+3,(公式)不動産投資のベルテックス,不動産投資のベルテックス／公式,adsimilarity,adsimilarity,0,5,1,6,3
+4,オリックス生命（公式サイト）,オリックス生命公式ホームページ,adsimilarity,adsimilarity,0,5,1,6,3
+5,【公式】トヨタのサブスクKINTO,トヨタのサブスクKINTO【公式】,adsimilarity,adsimilarity,0,5,1,9,0
+6,【公式】auPAYマーケット,【公式】auPAYマーケット通販,adsimilarity,adsimilarity,1,4,3,3,4
+7,【初診料なし】治療薬を最短配送,初診料なし。治療薬を最短お届け,adsimilarity,adsimilarity,1,4,2,6,2
+8,スペースヒーター通販／ミスミ,スペースヒーター通販ならミスミ,adsimilarity,adsimilarity,0,5,1,6,3
+9,日本和装ホールディングス／公式,公式／日本和装ホールディングス,adsimilarity,adsimilarity,0,5,2,3,5
+10,レクサス月額74800円から,"レクサス月額74,800円～",adsimilarity,adsimilarity,0,5,1,3,6
+11,パソコン工房【公式通販サイト】,パソコン工房【公式】,adsimilarity,adsimilarity,0,5,0,6,4
+12,日々の生活をもっと豊かに快適に,【日々の暮らしをもっと快適に】,adsimilarity,adsimilarity,1,4,1,4,5
+13,ご購入をご検討の方へ,ご購入をお考えの方,adsimilarity,adsimilarity,0,5,1,8,1
+14,大人気のライズをご紹介,大人気のRAIZEをご紹介,adsimilarity,adsimilarity,0,5,1,2,7
+15,10万話以上の無料漫画が楽しめる,漫画10万話以上が無料で読める,adsimilarity,adsimilarity,0,5,1,3,6
+16,KANEBO/全品送料無料,カネボウの通販／全品送料無料,adsimilarity,adsimilarity,0,5,2,4,4
+17,埼玉県の銀行でローン借り入れ,埼玉の銀行でローン借り入れ,adsimilarity,adsimilarity,0,5,4,4,2
+18,【無料資料請求】詳細はコチラ,【無料】資料請求はこちら,adsimilarity,adsimilarity,0,5,0,7,3
+19,小学生向け東進のオンライン講座,小学生向け東進オンライン学校,adsimilarity,adsimilarity,0,5,3,1,6
+20,14時までの注文で即日発送,14時までの注文で即日発送可能,adsimilarity,adsimilarity,0,5,0,8,2
+21,シェル モーリナS2B／ミスミ,シェル モーリナS2B／ミスミVONA,adsimilarity,adsimilarity,0,5,5,3,2
+22,3/20(土)15:30 U-NEXTで生配信,3/20 15:30 U-NEXTでライブ配信,adsimilarity,adsimilarity,0,5,2,5,3
+23,お得な定額コースは2980円から,"お得な定額コース【2,980円～】",adsimilarity,adsimilarity,0,5,1,1,8
+24,ビズメイツ／Bizmates,Bizmates【ビズメイツ】,adsimilarity,adsimilarity,0,5,3,2,5
+25,ルテインサプリを初回980円で,初回980円/ルテインサプリ,adsimilarity,adsimilarity,0,5,0,5,5
+26,2021年の新作コレクションが登場,《2021新作コレクションが登場》,adsimilarity,adsimilarity,0,5,1,4,5
+27,不動産投資のベルテックス／公式,(公式)不動産投資のベルテックス,adsimilarity,adsimilarity,0,5,0,5,5
+28,お申し込みは、２４時間受付中,24時間、お申込み受付中,adsimilarity,adsimilarity,0,5,1,3,6
+29,Instagramでの販売も簡単に連携,Instagramと簡単連携・販売OK,adsimilarity,adsimilarity,1,4,1,2,7
+30,専用タブレット0円,学習専用タブレットが0円,adsimilarity,adsimilarity,3,2,0,0,0
+31,「半年後にはカレの方から…」,『大丈夫。半年後には彼が―』,adsimilarity,adsimilarity,2,3,0,7,3
+32,認知度No.1の薬剤師転職サイト,薬剤師転職サイト【認知度No.1】,adsimilarity,adsimilarity,0,5,1,4,5
+33,各院／渋谷 新宿 池袋駅から1分,【渋谷 新宿 池袋】 駅徒歩1分,adsimilarity,adsimilarity,1,4,0,3,7
+34,DMM Bitcoin/ネム取引,DMMビットコイン/ネム取引,adsimilarity,adsimilarity,0,5,3,3,4
+35,12/25(土)21:00 U-NEXTで配信,12/25 21:00 U-NEXTで配信,adsimilarity,adsimilarity,0,5,2,8,0
+36,お近くのHonda Carsへ,お近くのホンダカーズへ,adsimilarity,adsimilarity,0,5,4,5,1
+37,【無料】資料請求はこちら,【無料資料請求】詳細はコチラ,adsimilarity,adsimilarity,0,5,1,4,5
+38,人気の無料コミックが10万話以上,【無料】人気コミック10万話以上,adsimilarity,adsimilarity,0,5,0,0,10
+39,《TIME SALE》MAX 70% OFF,《SALE実施中》MAX 70% OFF,adsimilarity,adsimilarity,1,4,1,2,7
+40,無料コミック10万話以上を配信,10万話以上の無料コミックを配信,adsimilarity,adsimilarity,0,5,2,7,1
+41,【公式】キント／トヨタ自動車,【公式サイト】KINTO／トヨタ,adsimilarity,adsimilarity,0,5,2,2,6
+42,あの芸能人の結婚運命が見事的中,あの芸能人の結婚を見事的中,adsimilarity,adsimilarity,1,4,0,2,8
+43,無料漫画10万話以上を配信,【無料漫画】10万話以上,adsimilarity,adsimilarity,0,5,0,3,7
+44,たった10秒でかんたん見積り,10秒でかんたん見積り,adsimilarity,adsimilarity,0,5,0,8,2
+45,3月直前、直前準備を進めよう,3月直前準備を進めよう,adsimilarity,adsimilarity,0,5,2,4,4
+46,クッションコンパクト,クッションファンデーション,adsimilarity,adsimilarity,4,1,0,0,0
+47,初回980円/ルテインサプリ,初回限定980円ルテインサプリ,adsimilarity,adsimilarity,0,5,1,5,4
+48,サイドテーブルワゴン／ミスミ,サイドテーブルワゴンならミスミ,adsimilarity,adsimilarity,0,5,2,4,4
+49,《最短2ヶ月》でライターに,《最短2ヶ月》でライターへ,adsimilarity,adsimilarity,0,5,1,9,0
+50,官公庁・法人御用達 ご依頼多数,【官公庁・法人様】 ご依頼多数,adsimilarity,adsimilarity,0,5,2,1,7
+51,セブン‐イレブン受取り送料無料,セブンイレブン受取りで送料無料,adsimilarity,adsimilarity,0,5,1,2,7
+52,月200本 アニメ一挙本数最多,アニメ一挙本数国内最多 月200本,adsimilarity,adsimilarity,2,3,0,6,4
+53,公式：メンズTBC,【メンズTBC】公式サイト,adsimilarity,adsimilarity,0,5,2,0,8
+54,カービューの車買取,carviewの車買取,adsimilarity,adsimilarity,1,4,1,6,3
+55,8/2 13:00開演 U-NEXTで生配信,8/2 13:00 U-NEXTでライブ配信,adsimilarity,adsimilarity,0,5,1,5,4
+56,JO MALONEの香水をミニサイズで,ジョーマローンをミニサイズで,adsimilarity,adsimilarity,1,4,0,9,1
+57,何としても今日借りたい方必見,何としても今日借りたい方へ,adsimilarity,adsimilarity,0,5,0,7,3
+58,住友不動産販売【公式】,【公式ＨＰ】住友不動産販売,adsimilarity,adsimilarity,0,5,1,3,6
+59,ガレージバイスメネジ／ミスミ,ガレージバイスメネジならミスミ,adsimilarity,adsimilarity,0,5,1,2,7
+60,月々５，０００円から積み立てOK,月々５０００円から積み立て可能,adsimilarity,adsimilarity,0,5,1,4,5
+61,Huluなら約10万本の動画が見放題,10万本以上の動画が見放題/Hulu,adsimilarity,adsimilarity,0,5,0,7,3
+62,埼玉の銀行でローン借り入れ,埼玉県の銀行でローン借り入れ,adsimilarity,adsimilarity,0,5,4,1,5
+63,"初めての注文が＼1,500円／オフ",初回注文が＼1500円／オフ,adsimilarity,adsimilarity,0,5,2,3,5
+64,TOYOTA正規販売店,TOYOTA正規ディーラー,adsimilarity,adsimilarity,0,5,5,5,0
+65,バリトリビットソフト／ミスミ,バリトリビットソフトならミスミ,adsimilarity,adsimilarity,0,5,1,3,6
+66,浄水カートリッジの販売サイト,浄水器のカートリッジ販売サイト,adsimilarity,adsimilarity,0,5,3,3,4
+67,高級ブランドもOK【全国対応】,ブランド品もOK【全国対応】,adsimilarity,adsimilarity,0,5,0,6,4
+68,"月々2,000円からご返済可能",月々2000円からご返済が可能,adsimilarity,adsimilarity,0,5,3,2,5
+69,【公式】マルイウェブチャネル,公式通販：マルイウェブチャネル,adsimilarity,adsimilarity,0,5,2,5,3
+70,"月々5,000円から積み立てOK",月々５０００円から積み立て可能,adsimilarity,adsimilarity,0,5,2,7,1
+71,姓名判断 / 無料鑑定あり,姓名判断 / 一部無料,adsimilarity,adsimilarity,0,5,0,10,0
+72,栃木の銀行でローン借り入れ,栃木県の銀行でローン借り入れ,adsimilarity,adsimilarity,0,5,1,4,5
+73,認証jライバー大募集,認証ライバー募集中,adsimilarity,adsimilarity,2,3,1,4,5
+74,折りたためる大画面スマホ発売中,折りたためる大画面スマホ新発売,adsimilarity,adsimilarity,0,5,1,1,8
+75,自分の髪を、人生で一番美しく,自分の髪を、人生で一番美しく。,adsimilarity,adsimilarity,0,5,6,0,4
+76,女性まんがならdブック【公式】,女性漫画ならdブック【公式】,adsimilarity,adsimilarity,0,5,3,1,6
+77,バリトリビットソフトならミスミ,バリトリビットソフト／ミスミ,adsimilarity,adsimilarity,0,5,1,5,4
+78,メディケア生命保険／公式サイト,メディケア生命 公式サイト,adsimilarity,adsimilarity,0,5,1,8,1
+79,甲種4類講座/乙種4類講座,甲種4類講座/乙種4類講座が開講,adsimilarity,adsimilarity,1,4,2,4,4
+80,《最短2ヶ月》でライターへ,《最短2ヶ月》でライターに,adsimilarity,adsimilarity,0,5,3,3,4
+81,LIXILのトイレリフォーム,リクシルでトイレリフォーム,adsimilarity,adsimilarity,0,5,1,9,0
+82,すっぽん黒酢にセラミド贅沢配合,すっぽん黒酢に贅沢セラミドまで,adsimilarity,adsimilarity,0,5,1,8,1
+83,栃木県の銀行でローン借り入れ,栃木の銀行でローン借り入れ,adsimilarity,adsimilarity,0,5,1,6,3
+84,セブンネットショッピング／公式,【公式】セブンネット,adsimilarity,adsimilarity,1,4,1,4,5
+85,あじかん焙煎ごぼう茶,焙煎ごぼう茶のあじかん,adsimilarity,adsimilarity,0,5,2,4,4
+86,ビデオブレイン,Video BRAIN,adsimilarity,adsimilarity,0,5,3,4,3
+87,Video BRAIN,ビデオブレイン,adsimilarity,adsimilarity,0,5,3,3,4
+88,ヒゲ脱毛体験《500円》1／13迄,ヒゲ脱毛体験500円：1／13まで,adsimilarity,adsimilarity,0,5,1,6,3
+89,試乗のご予約はこちら,試乗を予約する,adsimilarity,adsimilarity,0,5,2,8,0
+90,【見逃し配信】カンブリア宮殿,カンブリア宮殿／見逃し配信なら,adsimilarity,adsimilarity,0,5,1,7,2
+91,送料無料／レンズダイレクト,レンズダイレクト/送料無料,adsimilarity,adsimilarity,0,5,3,6,1
+92,無料体験学習の予約は1/21から,無料体験学習の予約開始は1/21,adsimilarity,adsimilarity,0,5,1,8,1
+93,薬剤師転職サイト【認知度No.1】,認知度No.1の薬剤師転職サイト,adsimilarity,adsimilarity,0,5,1,5,4
+94,ご購入をお考えの方,ご購入をご検討の方へ,adsimilarity,adsimilarity,0,5,2,2,6
+95,大人気のRAIZEをご紹介,大人気のライズをご紹介,adsimilarity,adsimilarity,0,5,1,8,1
+96,24時間、お申込み受付中,お申し込みは、２４時間受付中,adsimilarity,adsimilarity,0,5,1,8,1
+97,【公式ＨＰ】住友不動産販売,住友不動産販売【公式】,adsimilarity,adsimilarity,0,5,1,6,3
+98,横浜市はは当日翌日スピード工事,横浜市は当日翌日スピード工事,adsimilarity,adsimilarity,1,4,0,0,10
+99,パソコン工房【公式】,パソコン工房【公式通販サイト】,adsimilarity,adsimilarity,1,4,1,1,8
+100,【公式/予約HP】じゃらんゴルフ,【公式サイト】じゃらんゴルフ,adsimilarity,adsimilarity,1,4,0,7,3
+101,Chanelの香水をミニサイズで,シャネルの香水をミニサイズで,adsimilarity,adsimilarity,0,5,0,5,5
+102,【初回限定キャンペーン】1000円,"初めての方は初回限定1,000円",adsimilarity,adsimilarity,0,5,1,6,3
+103,保険料がお手頃で安心の保障内容,安心保障をお手頃な保険料で,adsimilarity,adsimilarity,1,4,0,7,3
+104,ドコモ光(どこも)のご契約なら,ドコモ光の新規契約はこちら,adsimilarity,adsimilarity,0,5,1,3,6
+105,Chanelの香水を低価格でお試し,シャネルの香水を低価格でお試し,adsimilarity,adsimilarity,0,5,0,7,3
+106,親子のためのベビークモン／公式,親子で楽しくBaby Kumon：公式,adsimilarity,adsimilarity,1,4,0,2,8
+107,人気漫画10万話以上が無料,【無料漫画10万話以上】,adsimilarity,adsimilarity,2,3,0,7,3
+108,ドモホルンリンクル,CMで話題のドモホルンリンクル,adsimilarity,adsimilarity,3,2,0,0,0
+109,期間限定【初期費用0円】,今なら初期費用0円,adsimilarity,adsimilarity,0,5,0,6,4
+110,アニメ「今日から俺は」の配信,今日から俺は／配信,adsimilarity,adsimilarity,1,4,0,5,5
+111,参加費無料/ウェビナー開催,参加費無料/オンラインセミナー,adsimilarity,adsimilarity,1,4,1,1,8
+112,オンラインでできるAGA治療,オンラインでバレずにAGA治療,adsimilarity,adsimilarity,2,3,1,4,5
+113,サーバーラックをお探しの方へ,サーバーラックをお探しなら,adsimilarity,adsimilarity,0,5,3,3,4
+114,【公式】バンクイック専用ページ,バンクイック／公式サイト,adsimilarity,adsimilarity,0,5,2,3,5
+115,安い費用で税理士に丸投げ,低コストで税理士に丸投げ,adsimilarity,adsimilarity,1,4,1,3,6
+116,2021初夏新作続々入荷。,2021夏物新作作続々入荷。,adsimilarity,adsimilarity,0,5,2,4,4
+117,3/27(土)21時U-NEXTでライブ配信,3/27(土)21:00～U-NEXTで配信,adsimilarity,adsimilarity,1,4,2,4,4
+118,おうちﾌｨｯﾄﾈｽ 2週間おためし/ｼﾞﾑ,2週間無料おためし/おうちﾌｨｯﾄﾈｽ,adsimilarity,adsimilarity,3,2,0,0,0
+119,車用芳香剤でニオイを除去,車用消臭剤でニオイを除去,adsimilarity,adsimilarity,1,4,1,1,8
+120,人気の無料コミックが10万話以上,10万話以上の無料コミックを配信,adsimilarity,adsimilarity,0,5,0,5,5
+121,【公式】auPAYマーケット通販,【公式】auPAYマーケット,adsimilarity,adsimilarity,0,5,2,2,6
+122,2週間無料おためし/おうちジム,2週間無料おためし/自宅ジム,adsimilarity,adsimilarity,0,5,1,7,2
+123,4月から制服リニューアル,来年４月から制服リニューアル,adsimilarity,adsimilarity,3,2,0,0,0
+124,カートリッジ交換なら,カートリッジらくらく交換,adsimilarity,adsimilarity,3,2,0,0,0
+125,ダンボールならダンボールワン,ダンボール通販のダンボールワン,adsimilarity,adsimilarity,3,2,0,0,0
+126,"月々分割4,000円/税抜から","月々分割4,000円～",adsimilarity,adsimilarity,1,4,0,4,6
+127,【公式】ビタブリッドCフェイス,ビタブリッドCフェイス【公式】,adsimilarity,adsimilarity,0,5,2,7,1
+128,「料金が一番安いのはどれ？」,料金が安いのはどれ？,adsimilarity,adsimilarity,0,5,1,8,1
+129,ヤフーの新しい働き方,ヤフーの新しい働き方の取り組み,adsimilarity,adsimilarity,0,5,1,4,5
+130,番組「I-LAND」を見る,番組「I-LAND」の配信,adsimilarity,adsimilarity,0,5,1,5,4
+131,リクシルでトイレリフォーム,LIXILのトイレリフォーム,adsimilarity,adsimilarity,0,5,1,1,8
+132,便通改善／南雲吉則監修ごぼう茶,便通改善／永雲吉則監修ごぼう茶,adsimilarity,adsimilarity,5,0,0,0,0
+133,申し込み時登記簿・決算書不要,申込み時の法人登記簿決算書不要,adsimilarity,adsimilarity,0,5,1,7,2
+134,全話視聴するなら／dTV（公式）,シリーズ全話配信中／dTV公式,adsimilarity,adsimilarity,0,5,0,4,6
+135,あの芸能人の【婚期を的中】,あの芸能人の結婚時期を当てた,adsimilarity,adsimilarity,0,5,2,4,4
+136,リフォーム会社を簡単に探せる。,リフォーム会社をラクに探せる。,adsimilarity,adsimilarity,0,5,0,7,3
+137,メンズ・レディース商品が豊富に,メンズ・レディース多数展開,adsimilarity,adsimilarity,1,4,2,4,4
+138,【人気】無料コミック10万話以上,人気コミック10万話以上無料配信,adsimilarity,adsimilarity,0,5,0,4,6
+139,積立投資なら日興,投信積立はじめるなら日興,adsimilarity,adsimilarity,0,5,2,2,6
+140,未経験から即戦力へ,未経験から現場が求める即戦力へ,adsimilarity,adsimilarity,0,5,0,5,5
+141,かんたん5秒ｱﾝｹｰﾄで２週間無料,今だけ5秒アンケートで2週間無料,adsimilarity,adsimilarity,2,3,0,1,9
+142,本気で叶えたい想いがあるなら,本気でかなえたい願いがあるなら,adsimilarity,adsimilarity,0,5,1,5,4
+143,インターンシップエントリーなら,インターンシップの申し込みなら,adsimilarity,adsimilarity,0,5,2,5,3
+144,【公式】ABEMA／2週間無料,ABEMAプレミアム公式／2週間無料,adsimilarity,adsimilarity,4,1,0,0,0
+145,【公式】マイナビ2022EXPO夏の陣,【公式】マイナビWEB EXPO夏の陣,adsimilarity,adsimilarity,4,1,0,0,0
+146,最新ソファ«2021秋»,ソファー«2021秋の新作»,adsimilarity,adsimilarity,0,5,1,3,6
+147,今だけ5秒アンケートで2週間無料,かんたん5秒ｱﾝｹｰﾄで２週間無料,adsimilarity,adsimilarity,1,4,0,6,4
+148,4-6カ月で髪が増えたと実感,4-6カ月で効果を実感,adsimilarity,adsimilarity,4,1,0,0,0
+149,10秒でかんたん見積り,たった10秒でかんたん見積り,adsimilarity,adsimilarity,0,5,0,5,5
+150,NiziUの映像をARで楽しもう,最新の技術でNiziUをAR化,adsimilarity,adsimilarity,4,1,0,0,0
+151,リクナビ2023《公式サイト》,公式サイト《リクナビ2023》,adsimilarity,adsimilarity,0,5,2,6,2
+152,【公式】LIMNE の最新マットレス,【公式】LIMNEのマットレス,adsimilarity,adsimilarity,3,2,0,0,0
+153,定期保険 ブリッジ（死亡保険）,【ブリッジ】生命保険・死亡保険,adsimilarity,adsimilarity,1,4,2,4,4
+154,カードローン審査が不安な方へ,カードローン審査が不安な方必見,adsimilarity,adsimilarity,0,5,2,1,7
+155,赤ちゃん撮影の予約はこちら,赤ちゃん写真の予約はこちら,adsimilarity,adsimilarity,0,5,1,5,4
+156,パーティ・懇親会もTKPで,TKPのパーティ・懇親会サービス,adsimilarity,adsimilarity,0,5,1,7,2
+157,プロのイラストレイターに頼もう,イラスト制作をプロに依頼,adsimilarity,adsimilarity,0,5,0,5,5
+158,50歳からの1日6分おうち運動,50歳からの1日6分おうちﾌｨｯﾄﾈｽ,adsimilarity,adsimilarity,0,5,1,7,2
+159,ー医療介護求人・転職サイトー,医療介護求人・転職サイト,adsimilarity,adsimilarity,0,5,2,5,3
+160,【公式】ガスト宅配(デリバリー),【公式サイト】ガストの宅配,adsimilarity,adsimilarity,0,5,1,4,5
+161,教育関連の費用にご利用可能,教育関連にご利用可能なローン,adsimilarity,adsimilarity,4,1,0,0,0
+162,簿記二級/合格応援キャンペーン,簿記2級合格キャンペーン,adsimilarity,adsimilarity,2,3,0,9,1
+163,2週間無料おためし/自宅ﾌｨｯﾄﾈｽ,2週間無料おためし/自宅ジム,adsimilarity,adsimilarity,0,5,1,4,5
+164,11/6- スカパーにて全試合生中継,11月6日～全試合生中継/スカパー,adsimilarity,adsimilarity,0,5,1,2,7
+165,口コミ実績重視で本気の願望成就,口コミ多数。本気で願望成就なら,adsimilarity,adsimilarity,1,4,2,3,5
+166,英語学習はビズメイツ,英会話ならビズメイツ,adsimilarity,adsimilarity,0,5,0,2,8
+167,レストラン食事券が返礼品に,有名レストラン食事券が返礼品に,adsimilarity,adsimilarity,1,4,0,1,9
+168,楽天カード/年会費無料,楽天カード/年会費永年無料,adsimilarity,adsimilarity,2,3,0,1,9
+169,夏物新作・会員特典（無料）,夏物新作入荷・会員特典（無料）,adsimilarity,adsimilarity,0,5,1,5,4
+170,運営14年目の老舗サイト/必見,運営14年目の老舗サイト,adsimilarity,adsimilarity,0,5,2,4,4
+171,公式／オフィシャルサイト,【公式通販】オフィシャルHP,adsimilarity,adsimilarity,2,3,0,7,3
+172,新しい玄関用の消臭剤,新開発 玄関用の消臭剤,adsimilarity,adsimilarity,0,5,0,3,7
+173,鬼滅の刃/ABEMAで配信中,鬼滅の刃／配信中,adsimilarity,adsimilarity,4,1,0,0,0
+174,Menicon Miru 阪急茨木店,MeniconMiru阪急茨木店,adsimilarity,adsimilarity,0,5,3,6,1
+175,ゴリラクリニック/公式,【公式】ゴリラクリニック,adsimilarity,adsimilarity,0,5,3,0,7
+176,親族のみの結婚式場,家族・親族のみの結婚式プラン,adsimilarity,adsimilarity,1,4,1,2,7
+177,台所には置き型ファブリーズを,置き型ファブリーズ,adsimilarity,adsimilarity,3,2,0,0,0
+178,仕事に育児にお疲れのママへ,疲れが取れないママへ,adsimilarity,adsimilarity,2,3,0,5,5
+179,参加費無料/オンラインセミナー,参加費無料/ウェビナー開催,adsimilarity,adsimilarity,2,3,1,9,0
+180,あの芸能人の結婚を見事的中,あの芸能人の【婚期を的中】,adsimilarity,adsimilarity,0,5,0,9,1
+181,"先着10,000名様限定","毎月先着10,000名様限定",adsimilarity,adsimilarity,3,2,0,0,0
+182,刀剣コスプレ写真を応募しよう,刀剣コスプレ写真コンテスト,adsimilarity,adsimilarity,2,3,2,4,4
+183,ネットもテレ東で見よう,ネットもテレ東で配信中,adsimilarity,adsimilarity,0,5,2,2,6
+184,親子で一緒にBaby Kumon／公式,【公式】Baby Kumon,adsimilarity,adsimilarity,2,3,0,5,5
+185,くもん出版のドリル,くもん出版の幼児ドリル,adsimilarity,adsimilarity,3,2,0,0,0
+186,4月号の最終締切日は4/25,4月号のオススメ締切日は4/25,adsimilarity,adsimilarity,2,3,0,8,2
+187,感染予防徹底レッスンスタジオ,感染予防徹底ダンススタジオ,adsimilarity,adsimilarity,3,2,0,0,0
+188,無料コミック10万話以上が読める,【人気コミック】10万話以上無料,adsimilarity,adsimilarity,1,4,0,3,7
+189,【公式】FEMMUE／シートマスク,【FEMMUE(ファミュ)公式】,adsimilarity,adsimilarity,3,2,0,0,0
+190,お得に老後の資金を貯めるには？,老後の資金作り始めませんか？,adsimilarity,adsimilarity,3,2,0,0,0
+191,＞総合相談専用ページ＜,【総合相談窓口】はこちら,adsimilarity,adsimilarity,0,5,1,1,8
+192,料金が安い税理士を無料でご紹介,完全無料で何人でも税理士紹介,adsimilarity,adsimilarity,4,1,0,0,0
+193,引越し・転居 総合受付,引越、転居、移転の総合窓口,adsimilarity,adsimilarity,1,4,0,3,7
+194,費用15万円の新しい治療法,費用15万円で歯並び改善,adsimilarity,adsimilarity,4,1,0,0,0
+195,人気春物メンズアイテム勢ぞろい,人気春夏メンズアイテム勢ぞろい,adsimilarity,adsimilarity,4,1,0,0,0
+196,サラシノールで糖質の吸収を抑制,サラシノールで糖質ケア,adsimilarity,adsimilarity,3,2,0,0,0
+197,溶接棒ホルダ用銅管通販／ミスミ,溶接棒ホルダ用銅管の専用ページ,adsimilarity,adsimilarity,3,2,0,0,0
+198,デジタル新聞は親子読みがお得,親子で新聞読むなら朝デジがお得,adsimilarity,adsimilarity,2,3,0,5,5
+199,原則電話連絡がないからバレない,原則、勤務先への在籍確認なし,adsimilarity,adsimilarity,3,2,0,0,0
+200,年間ランキング2020をチェック,年間ランキング2020で比較,adsimilarity,adsimilarity,0,5,0,6,4
+201,女性専用パーソナルジム／柏,【女性専用】パーソナルジム,adsimilarity,adsimilarity,4,1,0,0,0
+202,生活家電をお探しなら,掃除機等、生活家電をお探しなら,adsimilarity,adsimilarity,0,5,2,6,2
+203,オフィス用品をお探しなら,椅子などのオフィス用品なら,adsimilarity,adsimilarity,3,2,0,0,0
+204,NTTフレッツ光の申込みはこちら,NTTフレッツ光回線はこちらから,adsimilarity,adsimilarity,0,5,2,6,2
+205,ゼクシィBabyが画数で診断,ゼクシィBabyの名付け診断,adsimilarity,adsimilarity,4,1,0,0,0
+206,Menicon Miru JRゲートタワー店,ゲートタワーのMeniconMiruへ,adsimilarity,adsimilarity,1,4,1,8,1
+207,イハダの防御スプレー,イハダ花粉防御スプレー,adsimilarity,adsimilarity,4,1,0,0,0
+208,【全国】大学の願書を請求する,＜大学＞カンタン願書請求,adsimilarity,adsimilarity,5,0,0,0,0
+209,新規入会特典あり,新規ご入会・利用特典あり,adsimilarity,adsimilarity,0,5,0,3,7
+210,82％OFFで即日交換,80％OFFで即日交換,adsimilarity,adsimilarity,5,0,0,0,0
+211,余ったデンキをおトクに有効活用,余った電気は有効活用できる時代,adsimilarity,adsimilarity,0,5,0,8,2
+212,【愛知】名古屋駅持込可,名古屋駅より徒歩5分/持込可,adsimilarity,adsimilarity,4,1,0,0,0
+213,YOSHIKIデザイン,シックなYOSHIKIデザイン,adsimilarity,adsimilarity,2,3,0,3,7
+214,【京都府特集】介護の転職求人,【京都府限定】介護の転職求人,adsimilarity,adsimilarity,0,5,1,2,7
+215,ヤフーの新しい働き方の取り組み,ヤフーの新しい働き方,adsimilarity,adsimilarity,0,5,0,4,6
+216,トレンドソファ≪2021夏≫,≪新作ソファー≫2021夏,adsimilarity,adsimilarity,2,3,1,2,7
+217,お風呂まわり部品の純正品なら,浴室まわり部品の純正品なら,adsimilarity,adsimilarity,1,4,2,4,4
+218,【京都府特集】介護の好条件求人,【京都府限定】介護の好条件求人,adsimilarity,adsimilarity,0,5,4,1,5
+219,【奈良県特集】介護の転職求人,【奈良県限定】介護の転職求人,adsimilarity,adsimilarity,0,5,1,2,7
+220,プラダン激安通販サイト,プラダンのネット通販‎,adsimilarity,adsimilarity,4,1,0,0,0
+221,塀の中から来た名医【観るなら】,塀の中から来た名医【配信中】,adsimilarity,adsimilarity,0,5,2,2,6
+222,捜査班】を観るなら,捜査班】を配信中,adsimilarity,adsimilarity,1,4,0,1,9
+223,メディカルスタイルF,メディカルスタイル,adsimilarity,adsimilarity,2,3,6,1,3
+224,U-NEXT／シーズン8も配信中,U-NEXTならシーズン8も観れる,adsimilarity,adsimilarity,0,5,0,4,6
+225,【テレ朝バラエティ】多数配信中,【テレ朝名作バラエティ】も配信,adsimilarity,adsimilarity,2,3,0,6,4
+226,楽天カード/年会費永年無料,楽天カード/年会費無料,adsimilarity,adsimilarity,2,3,0,8,2
+227,インターンシップを探す,インターンシップの検索はこちら,adsimilarity,adsimilarity,0,5,0,2,8
+228,姓名判断 / 一部無料,姓名判断 / 無料鑑定あり,adsimilarity,adsimilarity,0,5,0,4,6
+229,冷蔵庫の抗菌・防汚なら,冷蔵庫クリーニングをお探しなら,adsimilarity,adsimilarity,4,1,0,0,0
+230,人気漫画10万話以上を配信,100000話以上の人気漫画を配信,adsimilarity,adsimilarity,0,5,0,10,0
+231,【公式】あじかん／ごぼう茶,公式／国産あじかん焙煎ごぼう茶,adsimilarity,adsimilarity,2,3,0,4,6
+232,ひび割れて】見放題,ひび割れて】イッキ見,adsimilarity,adsimilarity,0,5,0,7,3
+233,男の体臭に良い「柿渋石けん」,体臭に良い、薬用「柿渋石けん」,adsimilarity,adsimilarity,2,3,0,5,5
+234,公式ファンクラブa-i会員限定,公式ファンクラブa-i会員限定CD,adsimilarity,adsimilarity,2,3,0,4,6
+235,2020年の新作アイテム続々入荷,2020年の冬アイテム続々入荷,adsimilarity,adsimilarity,5,0,0,0,0
+236,投信積立はじめるなら日興,積立投資なら日興,adsimilarity,adsimilarity,1,4,1,5,4
+237,有名レストラン食事券が返礼品に,レストラン食事券が返礼品に,adsimilarity,adsimilarity,1,4,0,9,1
+238,Diorの香水を低価格でお試し,Diorの香水をミニサイズで,adsimilarity,adsimilarity,4,1,0,0,0
+239,ワンランク上のお取り寄せグルメ,絶品グルメをお取り寄せ,adsimilarity,adsimilarity,2,3,1,6,3
+240,無料の資料請求はこちら,無料体験教材請求はこちら,adsimilarity,adsimilarity,2,3,1,4,5
+241,トレンドソファ≪2021夏≫,ソファー«2021夏の新作»,adsimilarity,adsimilarity,2,3,0,6,4
+242,《追加受講費0円》9教科対応,《入会金0円》9教科対応,adsimilarity,adsimilarity,4,1,0,0,0
+243,マタニティ雑誌を無料プレゼント,プレママ全員に無料プレゼント,adsimilarity,adsimilarity,5,0,0,0,0
+244,長野市の転職・求人情報,長野市の求人探し,adsimilarity,adsimilarity,0,5,1,7,2
+245,Menicon Miru 栄店,Menicon Miru 栄店／栄駅徒歩3分,adsimilarity,adsimilarity,4,1,0,0,0
+246,【公式】Galaxy2021年最新モデル,【公式】Galaxy 最新モデル,adsimilarity,adsimilarity,4,1,0,0,0
+247,最新の技術でNiziUをFR化,NiziUの映像をFRで楽しもう,adsimilarity,adsimilarity,2,3,0,0,10
+248,業界最安水準の保険料で安心保障,安心の保障を業界最安水準で,adsimilarity,adsimilarity,2,3,0,5,5
+249,公式：脱毛するなら、今がお得,公式：脱毛するなら半額の今,adsimilarity,adsimilarity,4,1,0,0,0
+250,太陽光発電で余ったデンキを買取,余ったデンキをおトクに有効活用,adsimilarity,adsimilarity,4,1,0,0,0
+251,アウトソーシングのお仕事紹介,アウトソーシングの求人紹介,adsimilarity,adsimilarity,0,5,1,7,2
+252,浮気・不倫の慰謝料請求はこちら,不倫により離婚・慰謝料請求,adsimilarity,adsimilarity,0,5,0,9,1
+253,四柱推命 / 一部無料,四柱推命 / 無料鑑定あり,adsimilarity,adsimilarity,0,5,0,1,9
+254,フルサイズミラーレスカメラ,フルサイズミラーレス一眼カメラ,adsimilarity,adsimilarity,2,3,1,3,6
+255,格安ホテル予約はじゃらん,ホテル予約はじゃらんがお得,adsimilarity,adsimilarity,1,4,0,5,5
+256,来院なし。国内正規ED薬380円,国内正規ED薬380円。自宅に郵送,adsimilarity,adsimilarity,1,4,0,4,6
+257,あの芸能人の結婚時期を当てた,あの芸能人の結婚運命が見事的中,adsimilarity,adsimilarity,1,4,1,5,4
+258,全国の美味しい逸品をお届け,各地の美味しい逸品を楽しむ,adsimilarity,adsimilarity,3,2,0,0,0
+259,内側からシミに効く医薬品,シミの元から効く医薬品,adsimilarity,adsimilarity,1,4,0,5,5
+260,多彩なラインナップをご用意,豊富なラインナップをご用意,adsimilarity,adsimilarity,0,5,1,4,5
+261,追加受講費0円で充実の入学準備,追加受講費不要で入学準備,adsimilarity,adsimilarity,2,3,0,8,2
+262,四柱推命 / 無料鑑定あり,四柱推命 / 一部無料,adsimilarity,adsimilarity,0,5,0,7,3
+263,復縁実績多数の電話占いカリス,復縁実現の実績多数あり,adsimilarity,adsimilarity,4,1,0,0,0
+264,朝8時半よりスカパー/KNTVで放送,朝8時30分より放送/スカパー,adsimilarity,adsimilarity,3,2,0,0,0
+265,長野の求人情報,長野の求人情報が豊富,adsimilarity,adsimilarity,0,5,0,2,8
+266,シャディ／公式ホームページ,贈り物ならシャディ／公式,adsimilarity,adsimilarity,3,2,0,0,0
+267,お得にNetflixを観たい方は必見,お得なNetflixパックが登場,adsimilarity,adsimilarity,1,4,0,9,1
+268,お得な新幹線利用プランはコチラ,【お得】ホテル＋新幹線はコチラ,adsimilarity,adsimilarity,4,1,0,0,0
+269,今だけ初回50％OFFキャンペーン,今だけ初回半額2480円で試せる,adsimilarity,adsimilarity,3,2,0,0,0
+270,不倫により離婚・慰謝料請求,浮気・不倫の慰謝料請求はこちら,adsimilarity,adsimilarity,1,4,0,0,10
+271,薬剤師の求人・転職サイト,薬剤師専門の薬剤師求人サイト,adsimilarity,adsimilarity,1,4,0,7,3
+272,【京都府限定】介護の好条件求人,【京都府特集】介護の好条件求人,adsimilarity,adsimilarity,0,5,1,6,3
+273,【静岡特集】介護の好条件求人,【静岡県限定】介護の転職求人,adsimilarity,adsimilarity,0,5,0,3,7
+274,ダンボールワン公式通販サイト,ダンボールワン【公式】,adsimilarity,adsimilarity,0,5,0,4,6
+275,埼玉で中古車をお探しならこちら,《トヨタ》埼玉の中古車はこちら,adsimilarity,adsimilarity,3,2,0,0,0
+276,中古車査定ならカーセンサー買取,カーセンサーで中古車を査定依頼,adsimilarity,adsimilarity,0,5,0,5,5
+277,シミの元から効く医薬品,内側からシミに効く医薬品,adsimilarity,adsimilarity,1,4,0,2,8
+278,ギフトの品揃えは常時1万点以上,常時1万点以上の豊富な品揃え,adsimilarity,adsimilarity,2,3,2,6,2
+279,原付の任意保険見積比較サイト,原付の任意保険比較はこちら,adsimilarity,adsimilarity,1,4,1,6,3
+280,集客のお悩みを解決／売上アップ,売上アップ、集客をサポート,adsimilarity,adsimilarity,1,4,0,7,3
+281,2021 NEW COLLECTION,2021年冬物 新作続々入荷中,adsimilarity,adsimilarity,3,2,0,0,0
+282,キッチン周りのクリーニングなら,水まわりのクリーニングは,adsimilarity,adsimilarity,4,1,0,0,0
+283,結婚なら【ゼクシィ公式サイト】,【ゼクシィ公式サイト】,adsimilarity,adsimilarity,2,3,1,8,1
+284,【バイク保険高すぎるかも？】,バイク保険払いすぎかも？,adsimilarity,adsimilarity,0,5,1,5,4
+285,春得キャンペーン第1弾,春得キャンペーン,adsimilarity,adsimilarity,3,2,0,0,0
+286,申し込みだけ簡単手続き,高速で手続き簡単な通信サービス,adsimilarity,adsimilarity,4,1,0,0,0
+287,お子さまが楽しみながら学習を,お子さまが飽きずに楽しく学習を,adsimilarity,adsimilarity,0,5,1,3,6
+288,トラベルミステリー】を配信中,トラベルミステリー】を観るなら,adsimilarity,adsimilarity,0,5,0,8,2
+289,Menicon Miru 青葉台店／駅チカ,Menicon Miru 青葉台店,adsimilarity,adsimilarity,3,2,0,0,0
+290,テレ朝 名作バラエティも配信,テレ朝バラエティ 多数配信中,adsimilarity,adsimilarity,0,5,1,2,7
+291,TKPのパーティ・懇親会サービス,パーティ・懇親会もTKPで,adsimilarity,adsimilarity,0,5,2,3,5
+292,WEBでかんたん見積もり,ネットで気軽にかんたん見積もり,adsimilarity,adsimilarity,0,5,0,8,2
+293,まずは3分から始める英語学習,1回3分からのビジネス英語学習,adsimilarity,adsimilarity,3,2,0,0,0
+294,国内最大級の恋活、婚活アプリ,国内最大級の恋活婚活アプリ/R18,adsimilarity,adsimilarity,3,2,0,0,0
+295,国内最大級の恋活婚活アプリ/R18,国内最大級の恋活、婚活アプリ,adsimilarity,adsimilarity,4,1,0,0,0
+296,【公式】LIMNEのマットレス,【公式】LIMNE の最新マットレス,adsimilarity,adsimilarity,1,4,0,2,8
+297,じゃらんゴルフホームページ,ご予約なら【じゃらんゴルフ】,adsimilarity,adsimilarity,3,2,0,0,0
+298,新規口座開設はこちら,口座開設はこちら,adsimilarity,adsimilarity,0,5,2,8,0
+299,未経験から現場が求める即戦力へ,未経験から即戦力へ,adsimilarity,adsimilarity,0,5,0,7,3
+300,人気漫画を最新話まで先行配信,最新話／人気漫画をイッキ読み,adsimilarity,adsimilarity,2,3,0,4,6
+301,【最新】人気すっぽんサプリ1位,【決定版】人気すっぽんサプリ,adsimilarity,adsimilarity,4,1,0,0,0
+302,LOWYA家具／2021年トレンド,LOWYA家具／2021最新トレンド,adsimilarity,adsimilarity,1,4,2,1,7
+303,【総合相談窓口】はこちら,＞総合相談専用ページ＜,adsimilarity,adsimilarity,0,5,0,10,0
+304,12球団全試合生中継／スカパー,全試合生中継／スカパー,adsimilarity,adsimilarity,2,3,0,7,3
+305,Menicon Miru 青葉台店,Menicon Miru 青葉台店／駅チカ,adsimilarity,adsimilarity,3,2,0,0,0
+306,全話イッキ見するなら／dTV公式,全170話イッキ見／dTV＜公式＞,adsimilarity,adsimilarity,4,1,0,0,0
+307,ゲートタワーのMeniconMiruへ,Menicon Miru JRゲートタワー店,adsimilarity,adsimilarity,1,4,1,4,5
+308,おしゃれな折り畳みスマホ新発売,おしゃれな折り畳みスマホ発売中,adsimilarity,adsimilarity,2,3,2,6,2
+309,【ゼクシィ公式サイト】,結婚なら【ゼクシィ公式サイト】,adsimilarity,adsimilarity,2,3,2,2,6
+310,1日6分みるみる痩せるおうち運動,1日6分でみるみる痩せる運動,adsimilarity,adsimilarity,2,3,1,7,2
+311,運営15年目の老舗サイト,運営15年目の老舗サイト／必見,adsimilarity,adsimilarity,0,5,2,3,5
+312,SP ベベラー用チップ／ミスミ,SP ベベラー用チップミスミVONA,adsimilarity,adsimilarity,2,3,2,5,3
+313,【アレスの天秤】観るなら,【アレスの天秤】配信中,adsimilarity,adsimilarity,0,5,0,2,8
+314,対象の家具・家電10%OFF,会員限定の家具・家電10%OFF,adsimilarity,adsimilarity,4,1,0,0,0
+315,お近くのKUMONの教室を検索,まずはお近くのKUMONの教室へ,adsimilarity,adsimilarity,3,2,0,0,0
+316,【業界最低水準の魅力的な金利】,金利／業界最低水準でお借り入れ,adsimilarity,adsimilarity,1,4,0,2,8
+317,贈り物ならシャディ／公式,シャディ／公式ホームページ,adsimilarity,adsimilarity,1,4,0,8,2
+318,階級の妻たち～】見放題,階級の妻たち～】イッキ見,adsimilarity,adsimilarity,0,5,0,8,2
+319,人気のサーバーBEST10を発表 ‪,ウォーターサーバー人気1～10位,adsimilarity,adsimilarity,3,2,0,0,0
+320,Menicon Miru 高松店,Menicon Miru 高松店／直営販売,adsimilarity,adsimilarity,3,2,0,0,0
+321,富士フイルムの機能性表示食品,富士フイルム開発の話題のサプリ,adsimilarity,adsimilarity,4,1,0,0,0
+322,【100作品以上】を一挙配信中,102作品が見放題,adsimilarity,adsimilarity,4,1,0,0,0
+323,無料お試し登録はこちら【公式】,入会月は無料【公式】,adsimilarity,adsimilarity,4,1,0,0,0
+324,Core iシリーズを豊富に取揃え,Ryzenシリーズを豊富に取揃え,adsimilarity,adsimilarity,5,0,0,0,0
+325,月額625円でコンテンツ聴き放題,月額625円/スピードラーニング,adsimilarity,adsimilarity,4,1,0,0,0
+326,"2/6(土),2/7(日)","2021年1月14日(木),15日(金)",adsimilarity,adsimilarity,5,0,0,0,0
+327,14日間お試し入会／明日が最終日,無料招待申込受付／本日が最終日,adsimilarity,adsimilarity,5,0,0,0,0
+328,劇場版 鬼滅の刃 無限列車編,【鬼滅の刃】アニメも映画も,adsimilarity,adsimilarity,5,0,0,0,0
+329,タオルの雑菌臭対策にも,布団やまくらの寝汗の除菌にも,adsimilarity,adsimilarity,3,2,0,0,0
+330,ホテル予約はじゃらんがお得,格安ホテル予約はじゃらん,adsimilarity,adsimilarity,1,4,0,5,5
+331,寝ても疲れが取れないママへ,朝からバタバタお疲れママへ,adsimilarity,adsimilarity,5,0,0,0,0
+332,ジョナサンの宅配 オードブルも,ジョナサンの宅配 ハンバーグも,adsimilarity,adsimilarity,5,0,0,0,0
+333,全品約9%おトクな新価格,全品おトクな新価格,adsimilarity,adsimilarity,4,1,0,0,0
+334,医師の求人・転職ならリクルート,病院内のお仕事探しはリクルート,adsimilarity,adsimilarity,5,0,0,0,0
+335,葬祭・仏具ローン、どこがいい？,頼れる葬祭仏具ローンを選ぼう,adsimilarity,adsimilarity,3,2,0,0,0
+336,完結編・全4話イッキ見しよう,シリーズ作品をまとめて視聴,adsimilarity,adsimilarity,4,1,0,0,0
+337,2021SPRING COLLECTION,2021 WINTER COLLECTION,adsimilarity,adsimilarity,5,0,0,0,0
+338,ジョナサンの宅配 パスタも,ジョナサンの宅配 オードブルも,adsimilarity,adsimilarity,4,1,0,0,0
+339,2021年3月最新のローン情報,2021年3月最新版,adsimilarity,adsimilarity,3,2,0,0,0
+340,仕事に育児に限界のママへ,朝からお疲れなママの救世主,adsimilarity,adsimilarity,4,1,0,0,0
+341,【FEMMUE(ファミュ)公式】,【公式】FEMMUE／シートマスク,adsimilarity,adsimilarity,3,2,0,0,0
+342,車・バイク関連の費用に利用可能,愛車のメンテナンス費用などに,adsimilarity,adsimilarity,3,2,0,0,0
+343,CMで話題のドモホルンリンクル,ドモホルンリンクル,adsimilarity,adsimilarity,3,2,0,0,0
+344,リクナビ診断/公式サイト,【公式サイト】リクナビ2022,adsimilarity,adsimilarity,4,1,0,0,0
+345,(TORY BURCH)がアウトレット価格,(TORY BURCH)が最大3万円割引,adsimilarity,adsimilarity,5,0,0,0,0
+346,子供の鍵閉め忘れがなくせます,鍵の閉め忘れ問題がすんなり解決,adsimilarity,adsimilarity,3,2,0,0,0
+347,3分で分かる一番安いバイク保険,最安バイク保険がすぐにわかる,adsimilarity,adsimilarity,4,1,0,0,0
+348,Die Neue These】見放題,Die Neue These】イッキ見,adsimilarity,adsimilarity,0,5,1,8,1
+349,【兵庫県限定】介護の好条件求人,【兵庫県特集】介護の好条件求人,adsimilarity,adsimilarity,1,4,3,4,3
+350,ノアレ 1日1粒で手軽に体調管理,ノアレ 1日1粒で手軽に乳酸菌,adsimilarity,adsimilarity,5,0,0,0,0
+351,八芳園ウェディングフェア,八芳園フェア【見学予約】,adsimilarity,adsimilarity,5,0,0,0,0
+352,"家計に優しい1口3,000円も選べる","持病のある方も1口3,000円で加入",adsimilarity,adsimilarity,4,1,0,0,0
+353,≪おしゃれな本棚≫2021最新,≪スッキリ片付く本棚≫2021秋,adsimilarity,adsimilarity,4,1,0,0,0
+354,安定した収入可+入社祝い金20万,今だけ入社祝い金20万円支給,adsimilarity,adsimilarity,4,1,0,0,0
+355,無料漫画10万話以上をイッキ読み,全話無料の人気漫画も配信中,adsimilarity,adsimilarity,5,0,0,0,0
+356,sonitechで建築資材一式を調達,建築資材のデリバリーはsonitech,adsimilarity,adsimilarity,2,3,0,3,7
+357,鍵・スペアキーの純正品なら,"スペアキー,合鍵",adsimilarity,adsimilarity,3,2,0,0,0
+358,小林製薬の潤い化粧水,小林製薬のセラミド化粧水,adsimilarity,adsimilarity,3,2,0,0,0
+359,日本初のNiziU ARコンテンツ配信,NiziUの映像をARで楽しもう,adsimilarity,adsimilarity,3,2,0,0,0
+360,"最短""30分""で審査結果が分かる",最短即日でお金を借りる,adsimilarity,adsimilarity,5,0,0,0,0
+361,【公式】マイナビWEB EXPO夏の陣,【公式】マイナビ2022EXPO夏の陣,adsimilarity,adsimilarity,4,1,0,0,0
+362,(MARNI)が最大70%OFF,(MARNI)が最大3万円割引,adsimilarity,adsimilarity,5,0,0,0,0
+363,人気のオトナ女子コミックが充実,新連載・独占コミックも充実,adsimilarity,adsimilarity,5,0,0,0,0
+364,今なら人気クラスが10～40％オフ,今なら人気クラスが20～30％オフ,adsimilarity,adsimilarity,5,0,0,0,0
+365,即日でお金を借りたい方,周囲に秘密で即日融資も可能,adsimilarity,adsimilarity,3,2,0,0,0
+366,ThinkSystemのおすすめサーバー,ThinkSystemの人気サーバー,adsimilarity,adsimilarity,1,4,1,6,3
+367,書写の先生になりたい方へ,書写の先生になりませんか？,adsimilarity,adsimilarity,0,5,0,6,4
+368,【格安】ホテル予約はじゃらん,【ホテル予約】はじゃらんがお得,adsimilarity,adsimilarity,1,4,1,5,4
+369,業界最低水準の金利で新規借入,《業界最低水準》の魅力的な金利,adsimilarity,adsimilarity,2,3,1,2,7
+370,ネットもテレ東で配信中,ネットもテレ東【SPY×FAMILY】,adsimilarity,adsimilarity,4,1,0,0,0
+371,子どもが持ちたがる防犯グッズ,子どもが喜ぶ《カメラ機能付き》,adsimilarity,adsimilarity,5,0,0,0,0
+372,大人気チョコプラが参戦,大人気ニューヨークが参戦,adsimilarity,adsimilarity,5,0,0,0,0
+373,選ばれて保有契約120万件突破,選ばれて保有契約件数80万件突破,adsimilarity,adsimilarity,5,0,0,0,0
+374,車両保険のお見積り無料,リアルタイム一括見積／無料,adsimilarity,adsimilarity,5,0,0,0,0
+375,毎日連載の無料コミックも配信,人気の全話無料コミックも充実,adsimilarity,adsimilarity,5,0,0,0,0
+376,【TKP】ウェビナー支援,【TKP】Web会議・ライブ配信支援,adsimilarity,adsimilarity,4,1,0,0,0
+377,【公式】mamanic（ママニック）,【公式】ママニック葉酸サプリ,adsimilarity,adsimilarity,3,2,0,0,0
+378,誰にも知られずWEB完結,取引はすべてオンラインで出来る,adsimilarity,adsimilarity,4,1,0,0,0
+379,【即日】今日、すぐに借りる,なんとしても今日お金を借りたい,adsimilarity,adsimilarity,1,4,1,6,3
+380,(WISM)がアウトレット価格,(WISM)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+381,TWDシリーズをイッキ見／dTV,海外ドラマイッキ見するなら/dTV,adsimilarity,adsimilarity,5,0,0,0,0
+382,お客様満足95％の給湯器専門会社,工事満足度97％の給湯器専門会社,adsimilarity,adsimilarity,4,1,0,0,0
+383,バーミヤンの宅配 ラーメンも,デリバリーならバーミヤンの宅配,adsimilarity,adsimilarity,4,1,0,0,0
+384,株式投資なら日興で,株式投資を始めるなら,adsimilarity,adsimilarity,5,0,0,0,0
+385,和歌山市内の食事券が返礼品に,和歌山市話題のレストラン食事券,adsimilarity,adsimilarity,5,0,0,0,0
+386,最新8巻読めるのはシーモアだけ,最新7巻読めるのはシーモアだけ,adsimilarity,adsimilarity,5,0,0,0,0
+387,【TOEIC対策】スタサプ英語,スタディサプリENGLISH／コーチ,adsimilarity,adsimilarity,4,1,0,0,0
+388,【今なら3話無料】全9話一気読み,【今なら2話無料】全9話一気読み,adsimilarity,adsimilarity,5,0,0,0,0
+389,日本初のNiziU VRコンテンツ配信,最新の技術でNiziUをVR化,adsimilarity,adsimilarity,5,0,0,0,0
+390,注目50試合を徹底中継 スカパー,最後まで完全生中継／スカパー,adsimilarity,adsimilarity,5,0,0,0,0
+391,一つでも多く、安全にデータ復旧,１秒でも早く、安全にデータ復旧,adsimilarity,adsimilarity,5,0,0,0,0
+392,人材管理・人事評価のDX化なら,人事評価をデジタル化しませんか,adsimilarity,adsimilarity,2,3,0,6,4
+393,(KIPLING)が最大70%OFF,(KIPLING)がアウトレット価格,adsimilarity,adsimilarity,5,0,0,0,0
+394,今、人気のアイテムをPICK UP,人気の売れ筋アイテム公開中,adsimilarity,adsimilarity,0,5,0,6,4
+395,みんなが選ぶヒゲ脱毛TOP5,ヒゲ脱毛満足度ランキング,adsimilarity,adsimilarity,2,3,0,7,3
+396,グロービスのオンライン研修,企業内研修ならグロービス,adsimilarity,adsimilarity,4,1,0,0,0
+397,70歳以上の方も申込める保険も,80歳以上の方の家計に優しい保険,adsimilarity,adsimilarity,5,0,0,0,0
+398,【SEASONAL SALE】Max 50%OFF,《TIME SALE》MAX 50% OFF,adsimilarity,adsimilarity,2,3,1,1,8
+399,お得なNetflixパックが登場,お得にNetflixを観たい方は必見,adsimilarity,adsimilarity,1,4,0,6,4
+400,群馬の転職・求人情報,群馬で求人を見つける,adsimilarity,adsimilarity,0,5,0,7,3
+401,刀剣コスプレ写真コンテスト,刀剣コスプレ写真を応募しよう,adsimilarity,adsimilarity,3,2,0,0,0
+402,1日6分ﾑﾘなく続く 2週間おためし,1日6分でお腹ｽｯｷﾘ 2週間おためし,adsimilarity,adsimilarity,3,2,0,0,0
+403,TWDシリーズを一気見／dTV,dTVでシリーズ作品をイッキ見,adsimilarity,adsimilarity,3,2,0,0,0
+404,往復交通＋ホテル,新幹線や飛行機とホテルのセット,adsimilarity,adsimilarity,3,2,0,0,0
+405,GUCCIの香水を低価格でお試し,GUCCIの香水をミニサイズで,adsimilarity,adsimilarity,4,1,0,0,0
+406,シン・クロニクル,チェンクロシリーズ後継作,adsimilarity,adsimilarity,4,1,0,0,0
+407,頭皮と髪が変わる感動をあなたへ,石鹸ひとつで美しい髪と頭皮へ,adsimilarity,adsimilarity,4,1,0,0,0
+408,愛車のメンテナンス費用などに,車・バイク関連の費用に利用可能,adsimilarity,adsimilarity,1,4,0,4,6
+409,神田駅近のゴルフスクールなら,銀座駅近のゴルフスクールなら,adsimilarity,adsimilarity,5,0,0,0,0
+410,最新ソファ«2021夏»,トレンドソファー≪2021夏≫,adsimilarity,adsimilarity,2,3,0,7,3
+411,金利も為替手数料も両方おトク,お預入れ時の為替手数料は0円,adsimilarity,adsimilarity,5,0,0,0,0
+412,自由にBTOカスタマイズが可能,用途に合わせてカスタマイザ可能,adsimilarity,adsimilarity,4,1,0,0,0
+413,顔周りに特化 限定美容ローラー,顔 デコルテ 頭自在にローリング,adsimilarity,adsimilarity,5,0,0,0,0
+414,パンフレット制作を見積もり依頼,パンフレット制作をプロに依頼,adsimilarity,adsimilarity,3,2,0,0,0
+415,円定期預金 年0.20%（税引前）,特別金利 年0.20%（税引前）,adsimilarity,adsimilarity,5,0,0,0,0
+416,大人気ジャルジャルが参戦,大人気ニューヨークが参戦,adsimilarity,adsimilarity,5,0,0,0,0
+417,最高のコンテンツを作る会社,最高のコンテンツづくりに挑む,adsimilarity,adsimilarity,1,4,0,3,7
+418,専門学校【スタディサプリ進路】,大学情報【スタディサプリ進路】,adsimilarity,adsimilarity,4,1,0,0,0
+419,楽しく続けられるサーフヨガ,ボードの上で楽しくヨガレッスン,adsimilarity,adsimilarity,2,3,1,4,5
+420,【4/30まで】実質無料,【実質無料】キャンペーン実施中,adsimilarity,adsimilarity,5,0,0,0,0
+421,簡単ネット注文でご自宅にお届け,《宅配》自宅やオフィスにお届け,adsimilarity,adsimilarity,4,1,0,0,0
+422,一部無料で運勢占い,無料で運勢占い,adsimilarity,adsimilarity,3,2,0,0,0
+423,マウスピースで反対咬合の改善,マウスピースで受け口改善,adsimilarity,adsimilarity,2,3,0,4,6
+424,心置きなくあちこち行ける脚,日常生活に不安のない脚,adsimilarity,adsimilarity,4,1,0,0,0
+425,イラスト制作をプロに依頼,イラスト制作を見積もり依頼,adsimilarity,adsimilarity,3,2,0,0,0
+426,【公式】KINTO サブスク／トヨタ,【公式】KINTO ONE／サブスク,adsimilarity,adsimilarity,3,2,0,0,0
+427,60秒で引っ越し費用一括比較,60秒で相場が分かる／WEB見積り,adsimilarity,adsimilarity,3,2,0,0,0
+428,"1台19,800円/複数台で割引価格","1台19,800円〜/複数店舗対応可能",adsimilarity,adsimilarity,4,1,0,0,0
+429,妊娠3ヶ月全員に無料プレゼント,妊娠したら全員に無料プレゼント,adsimilarity,adsimilarity,5,0,0,0,0
+430,【5月無料お試し受付中】,2週間の無料お試しはこちらから,adsimilarity,adsimilarity,5,0,0,0,0
+431,不倫相手との結婚に向けて,不倫相手との結婚も可能でしょう,adsimilarity,adsimilarity,2,3,3,7,0
+432,これからも使い続けたいの声続出,「リピート確定」の声多数,adsimilarity,adsimilarity,1,4,0,7,3
+433,ラーメンマップでお店を探そう,ラーメンに特化した専用マップ,adsimilarity,adsimilarity,1,4,0,5,5
+434,信頼度・安心感No.1のSRE不動産,成約額納得度No.1のSRE不動産,adsimilarity,adsimilarity,4,1,0,0,0
+435,グランド東京有明／大規模温浴,グランド東京有明／天然温泉,adsimilarity,adsimilarity,4,1,0,0,0
+436,グランド東京有明／天然温泉,グランド東京有明／大規模温浴,adsimilarity,adsimilarity,3,2,0,0,0
+437,1万名に選べるプレゼント,1万名にオムツポーチなど当たる,adsimilarity,adsimilarity,3,2,0,0,0
+438,オトナ女子胸キュンコミック充実,人気少女コミックもイッキ読み,adsimilarity,adsimilarity,5,0,0,0,0
+439,最新のおすすめヒゲ脱毛TOP5,みんなが選ぶヒゲ脱毛TOP5,adsimilarity,adsimilarity,2,3,0,7,3
+440,悪阻がつらい時期の妊婦さん応援,妊婦さん応援キャンペーン,adsimilarity,adsimilarity,4,1,0,0,0
+441,資料請求1位の日本ペットプラス,1番人気は日本ペットプラス,adsimilarity,adsimilarity,2,3,0,6,4
+442,オリジナル・独占漫画が読み放題,独占配信漫画も読み放題作品豊富,adsimilarity,adsimilarity,2,3,0,7,3
+443,妊娠初期の妊婦さん限定,妊娠22週までの妊婦さん限定,adsimilarity,adsimilarity,5,0,0,0,0
+444,2022年5月おすすめローン一覧,2022年5月の最新のローン情報,adsimilarity,adsimilarity,3,2,0,0,0
+445,dTVでしか見られない特別映像,dTVオリジナル作品,adsimilarity,adsimilarity,1,4,1,4,5
+446,Menicon Miru 池袋店,Menicon Miru 池袋店／駅徒歩1分,adsimilarity,adsimilarity,4,1,0,0,0
+447,汗ばむ季節に汗ジミ対策,寒い季節も汗ジミ対策,adsimilarity,adsimilarity,5,0,0,0,0
+448,分譲住宅・土地購入なら。,分譲住宅も、注文住宅も。,adsimilarity,adsimilarity,3,2,0,0,0
+449,税務調査の立ち会いに強い税理士,信頼できる税理士をご紹介,adsimilarity,adsimilarity,5,0,0,0,0
+450,最安保険が最短3分で見つかる,比較で最も安い保険が見つかる,adsimilarity,adsimilarity,4,1,0,0,0
+451,"知識,経験0でも簡単/Video BRAIN",外注するより簡単/Video BRAIN,adsimilarity,adsimilarity,5,0,0,0,0
+452,シンプルな保障でお手頃な保険料,安心保障をお手頃な保険料で,adsimilarity,adsimilarity,4,1,0,0,0
+453,夏キャン:今だけ2週間お試し体験,夏ｷｬﾝﾍﾟｰﾝ:2週間体験完全無料,adsimilarity,adsimilarity,3,2,0,0,0
+454,11時30分からオンラインセミナー,19時からオンラインセミナー開催,adsimilarity,adsimilarity,5,0,0,0,0
+455,WEB会議・研修・セミナー会場,WEB会議・webセミナー会場,adsimilarity,adsimilarity,1,4,1,5,4
+456,通販でお得な定期便ご注文,通販サイトで商品の注文,adsimilarity,adsimilarity,4,1,0,0,0
+457,データ復旧率95.2%の実力,データ復旧11年連続No.1の技術力,adsimilarity,adsimilarity,5,0,0,0,0
+458,業界研究ならマイナビ2024,自己分析ならマイナビ2024,adsimilarity,adsimilarity,3,2,0,0,0
+459,(HARDY NOIR)がアウトレット価格,(HARDY NOIR)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+460,男性人気ランキング第1位は？,お薦め人気ランキング第1位は？,adsimilarity,adsimilarity,5,0,0,0,0
+461,無料で簡単ホームページ作成,簡単3STEPでショップ開設できる,adsimilarity,adsimilarity,5,0,0,0,0
+462,金切鋸刃の通販ならミスミ,金切鋸刃の専用ホームページ,adsimilarity,adsimilarity,4,1,0,0,0
+463,【メンズTBC】公式サイト,メンズTBC公式／ヒゲ脱毛,adsimilarity,adsimilarity,3,2,0,0,0
+464,無料・最速で見積もり対応します,無料見積もりは最短1時間で完了,adsimilarity,adsimilarity,5,0,0,0,0
+465,医療介護求人・転職サイト,医療介護に強い求人サイト,adsimilarity,adsimilarity,2,3,0,2,8
+466,タロット占い / 一部無料,タロット占い / 無料鑑定あり,adsimilarity,adsimilarity,1,4,2,0,8
+467,都心を中心に41ヶ所に展開,都心を中心に43か所に展開,adsimilarity,adsimilarity,5,0,0,0,0
+468,【主要8社】見積りを徹底比較,【主要8社】一括比較が可能,adsimilarity,adsimilarity,3,2,0,0,0
+469,人気マタニティ誌無料プレゼント,妊娠10週の全員に無料プレゼント,adsimilarity,adsimilarity,5,0,0,0,0
+470,すぐ届くカラコンはコチラから,夕方注文でも翌日届くカラコン,adsimilarity,adsimilarity,4,1,0,0,0
+471,観月ありさ愛用,【観月ありさ愛用の美白コスメ】,adsimilarity,adsimilarity,3,2,0,0,0
+472,LIXILオンラインショップ,リクシルのカートリッジ通販,adsimilarity,adsimilarity,4,1,0,0,0
+473,どこでもカンタン動画制作,素材を入れるだけで動画作成完了,adsimilarity,adsimilarity,4,1,0,0,0
+474,シリーズ102作品を一挙配信中,シリーズ100作品以上を一挙配信,adsimilarity,adsimilarity,3,2,0,0,0
+475,(LOEWE)が最大3万円割引,(LOEWE)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+476,すっぽんサプリ8年連続売上No.1,すっぽんサプリ11年連続No.1,adsimilarity,adsimilarity,5,0,0,0,0
+477,来院なし。診察料0。お薬代のみ,診察料0。お薬代のみお安く提供,adsimilarity,adsimilarity,4,1,0,0,0
+478,妊婦さん全員に無料プレゼント,妊婦のための本を無料プレゼント,adsimilarity,adsimilarity,3,2,0,0,0
+479,お金のプロが選ぶ自動車保険,専門家が選んだ自動車保険第1位,adsimilarity,adsimilarity,4,1,0,0,0
+480,(EDIT.FOR LULU)が最大3万円割引,(EDIT.FOR LULU)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+481,折りたたみ最新モデルのリアル,最新折りたたみスマホのリアル,adsimilarity,adsimilarity,2,3,1,6,3
+482,ご当地グルメをお家で楽しむ,ご当地グルメを購入,adsimilarity,adsimilarity,3,2,0,0,0
+483,新世代シンガーを発掘,新世代シンガーオーディション,adsimilarity,adsimilarity,1,4,1,3,6
+484,窪塚洋介、セオリーを着る。,オダギリジョーが着るTheory,adsimilarity,adsimilarity,5,0,0,0,0
+485,前進誤発進抑制機能を標準装備,衝突被害軽減ブレーキを標準装備,adsimilarity,adsimilarity,5,0,0,0,0
+486,塗るビタミンCパウダー,ビタミンCパウダー,adsimilarity,adsimilarity,3,2,0,0,0
+487,出産準備本を全員無料プレゼント,妊娠9週の全員に無料プレゼント,adsimilarity,adsimilarity,5,0,0,0,0
+488,換気しながら部屋も暖かく快適に,換気も暖かい空気も,adsimilarity,adsimilarity,1,4,0,9,1
+489,2／3まで500円ヒゲ脱毛体験,"ヒゲ脱毛体験《1,000円》",adsimilarity,adsimilarity,5,0,0,0,0
+490,海外ドラマの最新レンタル作品も,レンタル作品／海外ドラマが充実,adsimilarity,adsimilarity,2,3,0,2,8
+491,最短即日発行のクレジットカード,最短発行クレジットカード比較,adsimilarity,adsimilarity,4,1,0,0,0
+492,Game of Future【前篇】独占配信,Game of Future【前篇】配信決定,adsimilarity,adsimilarity,1,4,0,9,1
+493,手ぶらで体験レッスン実施中,【TVで話題】手ぶら体験無料,adsimilarity,adsimilarity,3,2,0,0,0
+494,ネットで簡単楽々注文,【ネットで完結】2分で注文完了‎,adsimilarity,adsimilarity,4,1,0,0,0
+495,がん・医療保険ならアフラック,がん保険・医療保険なら,adsimilarity,adsimilarity,4,1,0,0,0
+496,石川で転職・求人情報を探す,石川で希望の求人情報がみつかる,adsimilarity,adsimilarity,0,5,0,6,4
+497,最大20％ポイント超還元,総額６億円ポイント超還元,adsimilarity,adsimilarity,5,0,0,0,0
+498,(mystic)が最大70%OFF,(mystic)が最大3万円割引,adsimilarity,adsimilarity,5,0,0,0,0
+499,【工事全国対応】店舗防犯カメラ,店舗用防犯カメラ,adsimilarity,adsimilarity,4,1,0,0,0
+500,BitMatch注文が新登場,国内唯一の新機能BitMatch注文,adsimilarity,adsimilarity,4,1,0,0,0
+501,秋冬インターンシップを探す,夏のインターンシップエントリー,adsimilarity,adsimilarity,5,0,0,0,0
+502,町田旭で店舗をお探しの方,お近くの店舗をお探しの方,adsimilarity,adsimilarity,5,0,0,0,0
+503,"初期費用""0円""170万店舗が導入中","初期費用""0円""180万店舗が導入中",adsimilarity,adsimilarity,5,0,0,0,0
+504,徹底中継／スカパー,11月6日～徹底中継/スカパー,adsimilarity,adsimilarity,4,1,0,0,0
+505,パンフレット制作をプロに依頼,パンフレット制作を見積もり依頼,adsimilarity,adsimilarity,2,3,0,8,2
+506,初開催エシカルデイズ,エシカルデイズ開催中,adsimilarity,adsimilarity,3,2,0,0,0
+507,頑張る現代人の乳酸菌サプリ,その頑張りに乳酸菌の新習慣,adsimilarity,adsimilarity,2,3,0,5,5
+508,鬼滅の刃など原作コミックも充実,TVドラマ化の原作コミックも充実,adsimilarity,adsimilarity,5,0,0,0,0
+509,最新フルサイズミラーレスカメラ,フルサイズミラーレスカメラ,adsimilarity,adsimilarity,3,2,0,0,0
+510,今年 社会人になる方必見,新社会人必見のおすすめカード,adsimilarity,adsimilarity,3,2,0,0,0
+511,シンプルな保障でお手頃な保険料,業界最安水準の保険料で安心保障,adsimilarity,adsimilarity,4,1,0,0,0
+512,フルサイズ一眼 EOS R6,フルサイズ一眼 EOS R5 / EOS R6,adsimilarity,adsimilarity,3,2,0,0,0
+513,のLove Song】イッキ見,のLove Song】見放題,adsimilarity,adsimilarity,0,5,0,2,8
+514,《26歳まで年会費無料》,U25限定年会費無料,adsimilarity,adsimilarity,5,0,0,0,0
+515,人気コミック10万話以上が無料,毎日無料の人気コミックも充実,adsimilarity,adsimilarity,4,1,0,0,0
+516,毎日無料の人気コミックも充実,【無料コミック】10万話以上,adsimilarity,adsimilarity,4,1,0,0,0
+517,【入会金0円】9教科対応,【追加受講費0円】9教科対応,adsimilarity,adsimilarity,4,1,0,0,0
+518,ボトルジャッキ通販／ミスミ,ボトルジャッキの専用ページ,adsimilarity,adsimilarity,4,1,0,0,0
+519,結婚式準備なら【ゼクシィ】,ウエディングなら【ゼクシィ】,adsimilarity,adsimilarity,1,4,1,6,3
+520,自宅でサロン品質のヘアカラー,サロン品質のヘアカラー,adsimilarity,adsimilarity,2,3,0,9,1
+521,裸眼風カラコンでモテ瞳を実現,バレずに盛れる美人カラコン,adsimilarity,adsimilarity,4,1,0,0,0
+522,女性向け保険は保障で比較,女性のための医療保険,adsimilarity,adsimilarity,5,0,0,0,0
+523,たるみでお悩みの方へ,顔・あご下などのたるみに,adsimilarity,adsimilarity,4,1,0,0,0
+524,クッションファンデーション,クッションコンパクト,adsimilarity,adsimilarity,4,1,0,0,0
+525,都心を中心に40か所以上に展開,都心を中心に41ヶ所に展開,adsimilarity,adsimilarity,5,0,0,0,0
+526,住宅ローンならauじぶん銀行,auユーザーおすすめの住宅ローン,adsimilarity,adsimilarity,4,1,0,0,0
+527,お住まいの地域でトヨタ車を検索,お住まいの地域で絞って検索,adsimilarity,adsimilarity,4,1,0,0,0
+528,バキューム洗顔で肌綺麗,バキューム洗顔でいちご鼻改善,adsimilarity,adsimilarity,4,1,0,0,0
+529,まずは無料会員登録,【無料会員登録】かんたん60秒,adsimilarity,adsimilarity,4,1,0,0,0
+530,1万名におむつケースなど当たる,1万名にマルチバッグ等も当たる,adsimilarity,adsimilarity,5,0,0,0,0
+531,大手町のマンツーマン指導なら,恵比寿駅近のマンツーマン指導,adsimilarity,adsimilarity,5,0,0,0,0
+532,2/13(土)～U-NEXT独占で配信,U-NEXT独占で好評配信中,adsimilarity,adsimilarity,4,1,0,0,0
+533,長野の求人情報が豊富,長野の求人情報をみつける,adsimilarity,adsimilarity,1,4,1,7,2
+534,体臭に良い、薬用「柿渋石けん」,男の年齢臭に良い「柿渋石けん」,adsimilarity,adsimilarity,5,0,0,0,0
+535,見やすいサイトNo.1,見学したい施設数No.1,adsimilarity,adsimilarity,4,1,0,0,0
+536,最新版／定番・注目のクレカは？,最新人気No1はどのクレカ？,adsimilarity,adsimilarity,3,2,0,0,0
+537,60代ハリを諦めない方の美容液,ハリを諦めない人の為の美容液,adsimilarity,adsimilarity,3,2,0,0,0
+538,解約～新規申込まで完全サポート,【新生活応援】解約～乗換まで,adsimilarity,adsimilarity,4,1,0,0,0
+539,東京・神奈川限定補助金あり,補助金制度あり,adsimilarity,adsimilarity,4,1,0,0,0
+540,受験勉強のための塾費用にも,これからの受験費用にも使える,adsimilarity,adsimilarity,2,3,2,4,4
+541,ゲイに告る。】を観るなら,ゲイに告る。】を配信中,adsimilarity,adsimilarity,0,5,2,3,5
+542,【決定版】注目のすっぽんサプリ,【2021決定版】すっぽんサプリ,adsimilarity,adsimilarity,4,1,0,0,0
+543,【公式通販】ご購入はコチラから,【公式通販】お試しはコチラから,adsimilarity,adsimilarity,4,1,0,0,0
+544,口コミで大人気の高麗人参サプリ,TVで話題の高麗人参サプリ,adsimilarity,adsimilarity,3,2,0,0,0
+545,新幹線で行く大阪・東京旅行,東京と大阪の旅行なら,adsimilarity,adsimilarity,4,1,0,0,0
+546,睡眠で悩んでいる女性へ,女性のほとんどの悩みは睡眠から,adsimilarity,adsimilarity,4,1,0,0,0
+547,【2021年】保険窓口ランキング,保険相談窓口ランキングTOP３,adsimilarity,adsimilarity,5,0,0,0,0
+548,人材育成にアセスメントテスト,アセスメントテスト(GMAP),adsimilarity,adsimilarity,3,2,0,0,0
+549,都市ガス製品を激安価格で交換,TOKYOガス製品を激安価格で交換,adsimilarity,adsimilarity,4,1,0,0,0
+550,あなたにピッタリのトラックは？,トラックは何を選べばいい？,adsimilarity,adsimilarity,2,3,0,8,2
+551,【期間限定】10%OFFセール中,【期間限定】タイムセール実施中,adsimilarity,adsimilarity,4,1,0,0,0
+552,リーズナブルでおしゃれな家具,おしゃれで低価格のインテリア,adsimilarity,adsimilarity,0,5,0,8,2
+553,【兵庫県特集】介護の好条件求人,【兵庫県限定】介護の好条件求人,adsimilarity,adsimilarity,0,5,1,3,6
+554,大人気チョコプラが参戦,大人気かまいたちが参戦,adsimilarity,adsimilarity,5,0,0,0,0
+555,全国各地のご当地グルメを購入,ご当地グルメをお家で楽しむ,adsimilarity,adsimilarity,4,1,0,0,0
+556,格安自動車保険を探すならコチラ,最安の自動車保険会社はどこ？,adsimilarity,adsimilarity,2,3,0,9,1
+557,経験豊富な税理士をご紹介,相続税申告に詳しい税理士,adsimilarity,adsimilarity,5,0,0,0,0
+558,お申し込みはWEBで,カードローンWEBお申し込みなら,adsimilarity,adsimilarity,3,2,0,0,0
+559,第一三共ヘルスケア開発コスメ,【第一三共ヘルスケア開発】,adsimilarity,adsimilarity,3,2,0,0,0
+560,高コスパランキング1位はどこ？,コスパに特化したランキング発表,adsimilarity,adsimilarity,2,3,0,2,8
+561,公式特典：今だけ２週間無料体験,公式特典：今だけ5回も無料体験,adsimilarity,adsimilarity,5,0,0,0,0
+562,MARY QUANTなど,マリークヮントをチェック,adsimilarity,adsimilarity,1,4,3,4,3
+563,美しい字を身につけるきっかけに,美しい文字を身につけませんか,adsimilarity,adsimilarity,0,5,0,5,5
+564,Deuxieme Classeが最大3万円割引,(Deuxieme Classe)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+565,大人気かまいたちが参戦,大人気ジャルジャルが参戦,adsimilarity,adsimilarity,5,0,0,0,0
+566,鬼滅の刃など人気コミックが充実,人気の少女・女性コミックが充実,adsimilarity,adsimilarity,5,0,0,0,0
+567,人気春夏メンズアイテム勢ぞろい,人気春物メンズアイテム勢ぞろい,adsimilarity,adsimilarity,3,2,0,0,0
+568,恵比寿駅近のマンツーマン指導,神田駅近のマンツーマン指導なら,adsimilarity,adsimilarity,5,0,0,0,0
+569,ロゴ制作を見積もり依頼,ロゴ制作をプロに依頼,adsimilarity,adsimilarity,4,1,0,0,0
+570,最短1日で完了,室内ドア／最短1日から完了,adsimilarity,adsimilarity,3,2,0,0,0
+571,ディノスのメガヒット暖か寝具,ディノス冬寝具 6年連続No1,adsimilarity,adsimilarity,5,0,0,0,0
+572,大学・専門学校への進学なら,大学・専門学校探しをはじめよう,adsimilarity,adsimilarity,1,4,1,6,3
+573,【Google Pixel 5a (5G)】販売中,Google Pixel 5a (5G) 独占販売,adsimilarity,adsimilarity,3,2,0,0,0
+574,人気の動画配信サービスを比較,動画配信サービスを徹底分析,adsimilarity,adsimilarity,3,2,0,0,0
+575,「朝からぐったり…」,「明日起きれるか不安…」,adsimilarity,adsimilarity,4,1,0,0,0
+576,3200万部突破のヒット漫画も配信,約12年の連載作品が全巻配信,adsimilarity,adsimilarity,5,0,0,0,0
+577,人気春夏レディースファッション,人気春物レディースファッション,adsimilarity,adsimilarity,4,1,0,0,0
+578,ボードの上で楽しくヨガレッスン,楽しく続けられるサーフヨガ,adsimilarity,adsimilarity,1,4,1,4,5
+579,美しい文字を身につけませんか,文字がきれいな日常を,adsimilarity,adsimilarity,3,2,0,0,0
+580,イチナナライバー大募集,ライバー募集中,adsimilarity,adsimilarity,4,1,0,0,0
+581,最強スペックのAndroid端末,Google Pixel 史上最強スペック,adsimilarity,adsimilarity,4,1,0,0,0
+582,銀座駅近のゴルフスクールなら,池袋駅近のゴルフスクールなら,adsimilarity,adsimilarity,5,0,0,0,0
+583,"あなたに""フィット""する",あなたにフィットする保険なら,adsimilarity,adsimilarity,4,1,0,0,0
+584,"1/14(木),15(金) U-NEXTで生配信",U-NEXTでLIVE配信,adsimilarity,adsimilarity,5,0,0,0,0
+585,教育関連にご利用可能なローン,教育関連の費用にご利用可能,adsimilarity,adsimilarity,2,3,1,6,3
+586,新規登録で1000円分プレゼント,今だけ登録で1000円分プレゼント,adsimilarity,adsimilarity,3,2,0,0,0
+587,(Omekashi)がアウトレット価格,(Omekashi)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+588,恵比寿駅近のゴルフスクールなら,神田駅近のゴルフスクールなら,adsimilarity,adsimilarity,5,0,0,0,0
+589,おすすめのヒゲ脱毛とは,最新のおすすめヒゲ脱毛TOP5,adsimilarity,adsimilarity,4,1,0,0,0
+590,プロ野球中継観るならスカパー,セ・パ12球団徹底中継／スカパー,adsimilarity,adsimilarity,1,4,0,5,5
+591,希望に合った物件をカンタン検索,あなたにピッタリの住まい探し,adsimilarity,adsimilarity,2,3,1,4,5
+592,大切な方へ想いを込めたギフト,大切な日のプレゼントに,adsimilarity,adsimilarity,3,2,0,0,0
+593,オープンキャンパス情報,オープンキャンパス【2021】,adsimilarity,adsimilarity,5,0,0,0,0
+594,公式サイトはこちら,公式オンラインショップはこちら,adsimilarity,adsimilarity,2,3,1,6,3
+595,どこでもふれずに手洗い習慣,どこでも手洗い,adsimilarity,adsimilarity,4,1,0,0,0
+596,Galaxy Z Flip3 5Gのリアル,最新折りたたみスマホのリアル,adsimilarity,adsimilarity,5,0,0,0,0
+597,＼オーキャンに参加しよう／,【予約】オープンキャンパス,adsimilarity,adsimilarity,2,3,0,2,8
+598,あなたにフィットするがん保険,"もっと""フィット""できるがん保険",adsimilarity,adsimilarity,1,4,0,7,3
+599,無料登録で解答速報をすぐ確認,解答速報。PCスマホですぐ確認,adsimilarity,adsimilarity,4,1,0,0,0
+600,【全国】大学の資料請求はこちら,気になる大学をまとめて資料請求,adsimilarity,adsimilarity,2,3,0,3,7
+601,約8日間無料お試しセット,初回限定／約1週間分無料お試し,adsimilarity,adsimilarity,5,0,0,0,0
+602,グレンタのバッグのセール,グレンタのバッグなど,adsimilarity,adsimilarity,4,1,0,0,0
+603,運営14年目の老舗サイト,運営15年目の老舗サイト/必見,adsimilarity,adsimilarity,5,0,0,0,0
+604,顔・あご下などのたるみに,お肌のたるみでお悩みなら,adsimilarity,adsimilarity,3,2,0,0,0
+605,2021年01月の最新のローン情報,2021年01月おすすめローン一覧,adsimilarity,adsimilarity,3,2,0,0,0
+606,TWDシリーズをdTVで全話イッキ見,シーズン1から9もdTVで楽しめる,adsimilarity,adsimilarity,5,0,0,0,0
+607,プティマインのキッズパンツなど,プティマインの子供靴など,adsimilarity,adsimilarity,4,1,0,0,0
+608,1日6分ﾑﾘなく続く 2週間おためし,お腹の脂肪ｽｯｷﾘ 2週間おためし,adsimilarity,adsimilarity,5,0,0,0,0
+609,LAN・HDMIケーブルの通信販売,LAN・USBケーブルの通信販売,adsimilarity,adsimilarity,4,1,0,0,0
+610,小学生向け東進のオンライン講座,東進／小学生向け夏の特別授業,adsimilarity,adsimilarity,5,0,0,0,0
+611,最短2時間で完了,ガス給湯器／最短2時間,adsimilarity,adsimilarity,3,2,0,0,0
+612,【急募】40代・50代向けのパート,【急募】30代～50代の主婦大歓迎,adsimilarity,adsimilarity,5,0,0,0,0
+613,Ryzenシリーズを豊富に取揃え,Core iシリーズを豊富に取揃え,adsimilarity,adsimilarity,5,0,0,0,0
+614,試乗の予約はこちらから,ネットでかんたん試乗申し込み,adsimilarity,adsimilarity,2,3,0,5,5
+615,妊娠初期から役立つ本プレゼント,妊婦のための本を無料プレゼント,adsimilarity,adsimilarity,3,2,0,0,0
+616,コスパに特化したランキング発表,高コスパランキング1位はどこ？,adsimilarity,adsimilarity,2,3,2,5,3
+617,ガス給湯器が80％OFFで即日交換,ガス給湯器が82％OFFで即日交換,adsimilarity,adsimilarity,5,0,0,0,0
+618,高性能ミシンが大特価,ジャガーミシンが安い,adsimilarity,adsimilarity,4,1,0,0,0
+619,【決定版】人気すっぽんサプリ,【最新】人気すっぽんサプリ1位,adsimilarity,adsimilarity,4,1,0,0,0
+620,建築/土木学生のためのイベント,建築/土木学生のための合説開催,adsimilarity,adsimilarity,3,2,0,0,0
+621,安いバイク保険が3分で見つかる,最安保険が最短3分で見つかる,adsimilarity,adsimilarity,5,0,0,0,0
+622,24時間365日お申込み可能,24時間WEBでお申込みOK,adsimilarity,adsimilarity,3,2,0,0,0
+623,LeSportsacのアイテム,レスポートサックのお財布など,adsimilarity,adsimilarity,2,3,0,6,4
+624,2021年2月最新のローン情報,2021年2月最新版,adsimilarity,adsimilarity,3,2,0,0,0
+625,女性向け胸キュンコミックが充実,人気少女・女性コミックが充実,adsimilarity,adsimilarity,2,3,1,4,5
+626,ゼクシィBabyが妊婦さんを応援,妊婦さん応援キャンペーン,adsimilarity,adsimilarity,4,1,0,0,0
+627,4/9～11、全6公演U-NEXTで生配信,3DAYS全6公演をU-NEXTで生配信,adsimilarity,adsimilarity,4,1,0,0,0
+628,秋物新作多数入荷中。,2021年秋物新作続々入荷中,adsimilarity,adsimilarity,3,2,0,0,0
+629,第一三共ヘルスケア開発の化粧品,第一三共ヘルスケアの技術力,adsimilarity,adsimilarity,4,1,0,0,0
+630,dTV史上最多『100作品以上』配信,dTVで【100作品以上】取り揃え,adsimilarity,adsimilarity,3,2,0,0,0
+631,475Lサイズの冷蔵庫,470Lサイズの冷蔵庫,adsimilarity,adsimilarity,5,0,0,0,0
+632,今すぐお申込みいただけます,即日融資も可能。24時間申込みOK,adsimilarity,adsimilarity,4,1,0,0,0
+633,生活費足りない、そんなときは？,生活費足りない、今すぐお金必要,adsimilarity,adsimilarity,2,3,1,9,0
+634,1日6分ムリなく続くからお腹ｽｯｷﾘ,1日6分で脂肪が燃え続ける体に,adsimilarity,adsimilarity,4,1,0,0,0
+635,人事評価をデジタル化しませんか,人材管理・人事評価のDX化なら,adsimilarity,adsimilarity,3,2,0,0,0
+636,リクルートスタッフィング-介護,リクルートスタッフィング,adsimilarity,adsimilarity,4,1,0,0,0
+637,増設メモリ等、各種メモリが多数,SDカードなど、各種メモリが多数,adsimilarity,adsimilarity,3,2,0,0,0
+638,ストレスない手洗い習慣を,快適・安心な手洗い習慣を,adsimilarity,adsimilarity,1,4,1,2,7
+639,お尻まであったかチュニック多数,春夏オススメチュニック多数,adsimilarity,adsimilarity,5,0,0,0,0
+640,福島で挑戦する新しいまちづくり,新しい仲間とチャレンジする復興,adsimilarity,adsimilarity,5,0,0,0,0
+641,シワ・シミ悩みの救世主,気になるシミ・シワにアプローチ,adsimilarity,adsimilarity,3,2,0,0,0
+642,「M 愛すべき人がいて」視聴,ドラマ「M 愛すべき人がいて」,adsimilarity,adsimilarity,2,3,1,2,7
+643,CALLAWAY APPAREL | 2021 SPRING,2021・SPRINGコレクション,adsimilarity,adsimilarity,3,2,0,0,0
+644,12/6まで。家具・家電10%OFF,会員限定の家具・家電10%OFF,adsimilarity,adsimilarity,4,1,0,0,0
+645,モノタロウでんき,モノタロウでんきで電気代を削減,adsimilarity,adsimilarity,3,2,0,0,0
+646,人気の売れ筋春アイテム公開中,人気の春アイテム多数取り揃え,adsimilarity,adsimilarity,1,4,1,1,8
+647,【特別価格】135円/1日(税抜),"【特別価格】4,050円（税抜）",adsimilarity,adsimilarity,4,1,0,0,0
+648,トイレ用の部品,トイレ部品の純正品なら,adsimilarity,adsimilarity,4,1,0,0,0
+649,【お得】CMで話題のまんが王国,CMで話題／まんが王国で試し読み,adsimilarity,adsimilarity,3,2,0,0,0
+650,理想肌を目指す酵母メイク落とし,理想肌を目指すメイク落とし,adsimilarity,adsimilarity,3,2,0,0,0
+651,オトナ女子向け漫画も読み放題,人気の少女・女性漫画が読み放題,adsimilarity,adsimilarity,2,3,0,4,6
+652,健やかな骨づくりをサポート,自信を持った配合力で丈夫な骨を,adsimilarity,adsimilarity,4,1,0,0,0
+653,懇親会・ビジネスイベントに,講演会・式典・パーティーに,adsimilarity,adsimilarity,4,1,0,0,0
+654,初回85%OFFの980円,2月14日まで初回限定980円,adsimilarity,adsimilarity,5,0,0,0,0
+655,5日分お試し380円はこちら,【1人1回限り】5日分お試し380円,adsimilarity,adsimilarity,4,1,0,0,0
+656,【無料試し読み】人気漫画が充実,鬼滅の刃など漫画を無料試し読み,adsimilarity,adsimilarity,5,0,0,0,0
+657,病院内のお仕事探しはリクルート,医師の求人・転職ならリクルート,adsimilarity,adsimilarity,4,1,0,0,0
+658,女子向け漫画も最新話まで配信,人気漫画を最新話まで配信,adsimilarity,adsimilarity,4,1,0,0,0
+659,3/27(土)28(日)放送/スカパー,3月20日(土)より放送/スカパー,adsimilarity,adsimilarity,5,0,0,0,0
+660,"人気空気清浄機19,800円","人気空気清浄機19,800円。24日迄",adsimilarity,adsimilarity,4,1,0,0,0
+661,妊娠2ヶ月全員に無料プレゼント,つわりの方全員に無料プレゼント,adsimilarity,adsimilarity,5,0,0,0,0
+662,持病のある人も入りやすい,過去に手術をした人も入りやすい,adsimilarity,adsimilarity,4,1,0,0,0
+663,人気少女漫画も全巻イッキ読み,映画の原作少女漫画もイッキ読み,adsimilarity,adsimilarity,3,2,0,0,0
+664,ウエディングなら【ゼクシィ】,結婚式準備なら【ゼクシィ】,adsimilarity,adsimilarity,0,5,0,6,4
+665,9/9(木)13時からウェビナー開催,12時からオンラインセミナー開催,adsimilarity,adsimilarity,5,0,0,0,0
+666,新幹線で行くお得な京都旅行,【京都】新幹線＋宿がお得,adsimilarity,adsimilarity,2,3,1,2,7
+667,【アイフル】即日融資でバレない,【アイフル】バレずに借入れ可能,adsimilarity,adsimilarity,3,2,0,0,0
+668,新世代シンガーオーディション,新世代シンガーを発掘,adsimilarity,adsimilarity,3,2,0,0,0
+669,【無料会員登録】かんたん60秒,まずは無料会員登録,adsimilarity,adsimilarity,4,1,0,0,0
+670,朝からお疲れなママの救世主,寝ても疲れが取れないママへ,adsimilarity,adsimilarity,2,3,0,5,5
+671,LINEポイントプレゼント,LINEポイント2ポイントゲット,adsimilarity,adsimilarity,3,2,0,0,0
+672,物件情報毎日更新／新築一戸建て,【新着物件を毎週更新】戸建情報,adsimilarity,adsimilarity,2,3,0,7,3
+673,書写の先生になりませんか？,書写の先生になりたい方へ,adsimilarity,adsimilarity,0,5,0,7,3
+674,ライバー大募集,イチナナライバー大募集,adsimilarity,adsimilarity,3,2,0,0,0
+675,【おすすめ】毎日無料の連載漫画,【毎日連載】無料漫画10万話以上,adsimilarity,adsimilarity,4,1,0,0,0
+676,(MIUMIU)が最大3万円割引,(MIUMIU)が最大70%OFF,adsimilarity,adsimilarity,5,0,0,0,0
+677,【鉄血のオルフェンズ】観るなら,【鉄血のオルフェンズ】配信中,adsimilarity,adsimilarity,1,4,1,0,9
+678,安心と信頼の総合買取サロン,百貨店専門の総合買取サロン,adsimilarity,adsimilarity,5,0,0,0,0
+679,"いつ申し込んでも1,980円分お得",いつ申し込んでも1カ月間分お得,adsimilarity,adsimilarity,5,0,0,0,0
+680,戦国武将たちの愛刀に迫る一冊,刀剣ワールド／戦国武将の愛刀,adsimilarity,adsimilarity,4,1,0,0,0
+681,生涯学習 大人も公文で書写,人生100年 大人の学び 公文書写,adsimilarity,adsimilarity,4,1,0,0,0
+682,モバイルバッテリー,モバイルバッテリーあります,adsimilarity,adsimilarity,1,4,1,1,8
+683,女性のための医療保険,女性向け保険は保障で比較,adsimilarity,adsimilarity,4,1,0,0,0
+684,生活家電をサンワサプライで,生活家電をお探しなら,adsimilarity,adsimilarity,4,1,0,0,0
+685,今ならお得な「先行会員」受付中,一番お得な先行会員：先着100名,adsimilarity,adsimilarity,4,1,0,0,0
+686,ゲームプランナー採用サイト,ゲームプランナー採用強化中,adsimilarity,adsimilarity,3,2,0,0,0
+687,補助金制度あり,東京・神奈川限定補助金あり,adsimilarity,adsimilarity,4,1,0,0,0
+688,誰にも知られず契約までWEB完結,最短30分で審査完了／WEB完結,adsimilarity,adsimilarity,5,0,0,0,0
+689,"スペアキー,合鍵",鍵・スペアキーの純正品なら,adsimilarity,adsimilarity,3,2,0,0,0
+690,快適な生活に必要な商品が勢揃い,日々の暮らしに役立つ商品が満載,adsimilarity,adsimilarity,1,4,1,4,5
+691,マナー研修付きの新入社員研修,助成金利用可能の新入社員研修,adsimilarity,adsimilarity,5,0,0,0,0
+692,ピンクの薬用ゲル／センシティブ,スーパーセンシティブEX,adsimilarity,adsimilarity,4,1,0,0,0
+693,40歳女性の場合の保険料,40歳男性の場合の保険料,adsimilarity,adsimilarity,4,1,0,0,0
+694,Chloeの香水をミニサイズで,Chloeの香水を低価格でお試し,adsimilarity,adsimilarity,5,0,0,0,0
+695,【10万円があたる】バイセルくじ,4月末迄／1等10万円のくじ実施中,adsimilarity,adsimilarity,4,1,0,0,0
+696,現物3種、レバレッジ12種で取引,現物3種、レバレッジ11種で取引,adsimilarity,adsimilarity,4,1,0,0,0
+697,盛夏の新作多数入荷中。,初夏の新作多数入荷中。,adsimilarity,adsimilarity,3,2,0,0,0
+698,公文で書写の先生になりませんか,全国で公文書写の先生を募集中,adsimilarity,adsimilarity,2,3,0,6,4
+699,立ち直れないほど、辛い恋…,＜ツラい失恋＞立ち直れない方へ,adsimilarity,adsimilarity,0,5,0,2,8
+700,"#はじめよう出前館最大2,000オフ",初めての注文が1500円オフ,adsimilarity,adsimilarity,5,0,0,0,0
+701,5万人参加 不動産投資セミナー,5万人参加 アパート経営セミナー,adsimilarity,adsimilarity,3,2,0,0,0
+702,好きなことを本気で学べる高校,好きなことを学びながら高卒取得,adsimilarity,adsimilarity,2,3,0,6,4
+703,女優かとうかず子さん(６２)愛用,女優かとうかず子さん(６３)愛用,adsimilarity,adsimilarity,4,1,0,0,0
+704,いま支持されるクレカ第１位は？,選ばれてるクレジットカードは？,adsimilarity,adsimilarity,3,2,0,0,0
+705,ネットで気軽にかんたん見積り,WEBでかんたん見積り,adsimilarity,adsimilarity,0,5,0,3,7
+706,【関内でおすすめ】ネイル,おすすめネイルサロン＠関内,camera,human,0,5,2,2,6
+707,ギフト券を高く売れる高換金率店,高換金率でギフト券を売却,camera,human,0,5,0,7,3
+708,"ネット申込みで最大21,000円割引","ネット申込【最大￥21,000割引】",camera,human,0,5,3,1,6
+709,プロ直伝の動画クリエイター講座,プロに学ぶ動画クリエイター講座,camera,human,0,5,1,4,5
+710,【公式】バーミヤンの持ち帰り,持ち帰りに【公式】バーミヤン,camera,human,0,5,1,7,2
+711,【厳選3社】即日キャッシング,厳選3社で“即日”キャッシング,camera,human,0,5,0,6,4
+712,【2022年】人気ペット保険を比較,【2022年】人気のペット保険は？,camera,human,3,2,0,0,0
+713,医師によるスピード発毛治療,医師主導の迅速な発毛治療,camera,human,0,5,0,9,1
+714,【12月限定】年末特別価格,【12月限定】年末特別プライス,camera,human,0,5,1,5,4
+715,【最新版】医療脱毛おすすめTOP5,【最新】医療脱毛のおすすめ5選,camera,human,0,5,1,7,2
+716,【至急】お金が必要ならこの4社,至急でお金を借りるならこの4社,camera,human,0,5,0,7,3
+717,ダンボール箱即日配達いたします,【即日配達OK】ダンボール箱,camera,human,0,5,2,1,7
+718,バレずにお金借りるならこの3社,こっそり借りる カードローン3社,camera,human,3,2,0,0,0
+719,【本日更新】看護師の求人,【〇/〇更新】看護師の求人,camera,human,4,1,0,0,0
+720,各社の死亡保険を比較できる,【死亡保険】各社を一括比較,camera,human,1,4,0,1,9
+721,トリバゴのおすすめ旅館,おすすめの旅館は？トリバゴ,camera,human,0,5,1,7,2
+722,IT資産管理が簡単にできる,かんたんな【IT資産管理ツール】,camera,human,0,5,0,8,2
+723,歯並びを1日で治すならこちら,「1日で治す」歯並び 矯正,camera,human,0,5,0,5,5
+724,カンタン無料お見積り,かんたん￥0見積もり,camera,human,0,5,1,8,1
+725,【300円】から始めるAGA治療,300円～【AGA治療】,camera,human,0,5,0,10,0
+726,【公式】スクールIE／個別指導,個別指導なら【公式】スクールIE,camera,human,0,5,1,6,3
+727,【最新2022年】人気がん保険TOP5,【2022年最新】人気がん保険5選,camera,human,0,5,1,8,1
+728,エアコン掃除はプロにお任せ,プロに任せるエアコン掃除,camera,human,0,5,2,7,1
+729,今日中にお金借りるならこの３社,「今日お金を借りたい」3社紹介,camera,human,0,5,1,5,4
+730,自分たちの予算に合った結婚式,予算はいくら？結婚式相場を見る,camera,human,2,3,0,6,4
+731,医療保険の見直ししませんか？,医療保険の見直しなら,camera,human,0,5,1,6,3
+732,ワキガ対策/切らずに1回で完了,1回で完了。切らないワキガ対策,camera,human,0,5,1,5,4
+733,今すぐオンライン診療予約,今すぐ予約【オンライン治療】,camera,human,0,5,0,1,9
+734,最大91％OFF / 給湯器交換,最大９１％オフ／給湯器交換,camera,human,0,5,2,6,2
+735,高校で【美容師免許】が取れる,【美容師免許】が取れる高校,camera,human,0,5,0,3,7
+736,12月キャンペーン/残り21 日,【〇日まで】12月キャンペーン,camera,human,5,0,0,0,0
+737,【六本木一丁目】整体サロン予約,【予約】六本木1丁目 整体サロン,camera,human,0,5,0,5,5
+738,不倫で慰謝料請求されたら,【不倫】で慰謝料請求されたら？,camera,human,0,5,1,5,4
+739,働きながら学べる動画編集,動画編集を働きながら学ぶ,camera,human,0,5,1,7,2
+740,土地の価格評価を調べるなら,土地の価格評価を調査,camera,human,0,5,1,5,4
+741,睡眠中に美肌。寝ながら贅沢ケア,睡眠時にできる贅沢ケアで美肌へ,camera,human,1,4,0,6,4
+742,所持金0円でも働ける寮付き求人,所持金ナシで働ける 寮付き求人,camera,human,0,5,0,8,2
+743,留学保険／主要10社を徹底比較,【留学保険】主要10社を一括比較,camera,human,1,4,2,3,5
+744,今すぐお金が必要ならこの4社,「今、お金が必要」ならこの4社,camera,human,0,5,0,3,7
+745,車一括査定はやめたほうがいい？,やめたほうがいい？車の一括査定,camera,human,0,5,2,4,4
+746,【漫画読み放題】7日間完全無料,漫画読み放題／7日間ずーっと￥0,camera,human,0,5,0,9,1
+747,【公式】チャレンジ3年生,【公式】チャレンジ ３年生,camera,human,0,5,4,4,2
+748,求人掲載したい企業・店舗様向け,企業・店舗向け／求人掲載,camera,human,1,4,1,4,5
+749,銀行カードローンはどこが良い？,どの銀行カードローンが良い？,camera,human,0,5,0,6,4
+750,低価格でおもてなし重視の結婚式,低価格で叶うゲスト想いの結婚式,camera,human,2,3,0,6,4
+751,"【HIS】日帰りバス6,800円～","6,800円～／HIS日帰りバスツアー",camera,human,2,3,0,4,6
+752,【日本最大】Creema(クリーマ),【国内最大】クリーマ(Creema),camera,human,0,5,2,3,5
+753,東京でブランド品、高価買取,東京で高価ブランド買取なら,camera,human,0,5,1,3,6
+754,eスポーツを極める専門校,eスポーツ(e-Sports)の専門校,camera,human,0,5,0,9,1
+755,60日間でWebデザイナーを目指す,約2ヵ月間でWebデザイナーに？,camera,human,1,4,0,7,3
+756,あなたのマンション今いくら？,今いくら？ご所有のマンション,camera,human,1,4,0,9,1
+757,AGA治療の費用はお薬代のみ,費用はお薬代のみ／AGA治療,camera,human,0,5,0,2,8
+758,求人募集 福岡をお探しの企業様,【企業向け】福岡の求人募集に,camera,human,1,4,1,5,4
+759,社内の稟議・決裁をWeb上で完結,"""Web上で完結"" 社内の稟議・決裁",camera,human,0,5,2,4,4
+760,求人の出し方にお困りなら,求人の出し方にお困りですか？,camera,human,0,5,2,4,4
+761,エアコン掃除はプロにお任せ,「プロにお任せ」エアコン掃除,camera,human,0,5,0,5,5
+762,1日でできるLIXILの「まど断熱」,LIXILの「まど断熱」は1日で可能,camera,human,0,5,0,4,6
+763,クレカ 審査なし,【審査なし】でクレジットカード,camera,human,0,5,0,1,9
+764,正職員登用制度あり,正職員登用制度あり／看護助手,camera,human,3,2,0,0,0
+765,桜木町のホテル【最安値】予約,桜木町に泊まる【最安値で予約】,camera,human,1,4,1,3,6
+766,1日1時間〜OK女性向け時短パート,1日1時間〜時短OK 女性向け求人,camera,human,1,4,1,3,6
+767,飛騨古川温泉の宿予約,【飛騨古川】温泉宿を予約,camera,human,0,5,0,3,7
+768,他社の見積書提示でさらに割引,他社の見積書提示するだけで割引,camera,human,1,4,0,9,1
+769,クラウドだから常に最新の機能,クラウドだから常に最新システム,camera,human,0,5,1,5,4
+770,安中市 建売価格が安い順で探す,安い順で検索／安中市の建売価格,camera,human,0,5,0,2,8
+771,アゴダで格安のホテル予約,Agodaで格安ホテルを予約,camera,human,0,5,1,3,6
+772,給与計算業務アウトソーシング,給与計算業務のアウトソーシング,camera,human,0,5,3,1,6
+773,複数の保険を簡単比較,複数の保険で見積もりを簡単比較,camera,human,0,5,1,3,6
+774,京都 伏見駅の格安ホテル,京都 伏見駅／格安で泊まれる宿,camera,human,0,5,0,2,8
+775,かんたん5分でシミュレーション,「5分で簡単」シミュレーション,camera,human,0,5,0,3,7
+776,レイトチェックアウト可能プラン,レイトチェックアウトOKなプラン,camera,human,0,5,2,2,6
+777,【登戸でおすすめ】美容院,美容院おすすめ／登戸,camera,human,0,5,2,2,6
+778,"初月のAGA治療費は1,000円のみ","「初月は1,000円だけ」AGA治療費",camera,human,0,5,2,2,6
+779,かまいたちCM出演中,かまいたちCM出演中／男性のAGA,camera,human,3,2,0,0,0
+780,保険料は一生涯上がりません,一生上がらない保険料なら,camera,human,0,5,0,8,2
+781,レガリアベッド／最低価格保証,レガリアベッド【最低価格保証】,camera,human,0,5,3,3,4
+782,司法書士 料金表 相続,司法書士／料金表／相続,camera,human,0,5,4,1,5
+783,クラウドPBXおすすめ比較,【おすすめ比較】クラウドPBX,camera,human,1,4,1,2,7
+784,美瑛の温泉の宿予約,美瑛の温泉【宿を予約】,camera,human,0,5,1,3,6
+785,VRを活用した体験型学校教育,「VRを活用」体験型学校教育,camera,human,0,5,1,6,3
+786,お金を借りるなら、どこがいい？,どこがいい？お金を借りるなら,camera,human,0,5,0,10,0
+787,料金比較でお得にホテル予約,ホテル予約は料金比較でお得に,camera,human,0,5,1,4,5
+788,はじめての脱毛デビューなら,はじめての脱毛なら,camera,human,0,5,1,2,7
+789,人探し探偵 おすすめランキング,人探し探偵／おすすめランキング,camera,human,0,5,5,0,5
+790,中目黒で当日給料手渡し可能,当日給料手渡しOK／中目黒,camera,human,0,5,0,3,7
+791,【公式】ピッコマ／待てば無料,「待てば無料」ピッコマ公式,camera,human,0,5,1,6,3
+792,2024新卒 IT向け就活サイト,【2024新卒】IT向け就活サイト,camera,human,0,5,3,1,6
+793,今すぐネットでかんたん見積り,"""ネットでかんたん""今すぐ見積り",camera,human,0,5,1,3,6
+794,低金利の金融機関も比較できる,比較もできる／低金利の金融機関,camera,human,0,5,1,3,6
+795,人気の女性向け医療保険,【女性向け】人気の医療保険,camera,human,0,5,0,0,10
+796,有馬温泉 最安値ホテル,最安値ホテル＠有馬温泉,camera,human,0,5,3,5,2
+797,すぐに保険の見積もりができます,「すぐにできる」保険の見積もり,camera,human,0,5,0,2,8
+798,dodaは公務員の転職に強い,「公務員の転職に強い」doda,camera,human,0,5,0,2,8
+799,このペット保険デメリットある？,デメリットある？このペット保険,camera,human,0,5,1,4,5
+800,梅田 ホテル 予約,梅田のホテル予約なら,camera,human,0,5,1,2,7
+801,今の電気代と比較してください,今の電気代と比較してほしい,camera,human,0,5,1,6,3
+802,学校で美容を学ぼう！,美容を学べる学校なら,camera,human,0,5,0,6,4
+803,【必見】車の保険、最安値で！,最安値で車の保険を探す方、必見,camera,human,0,5,0,8,2
+804,andar通販でセール開催！,【セール開催中】andar通販,camera,human,0,5,0,1,9
+805,mitsuiでショッピングを楽しむ！,ショッピングを楽しむならmitsui,camera,human,0,5,0,2,8
+806,歯並び矯正なら月4300円！,"【￥4,300/月】の歯並び矯正",camera,human,0,5,1,5,4
+807,介護転職ランキングTOP3！,介護転職ランキング人気3選,camera,human,0,5,1,3,6
+808,アートスキル、OCHABIで磨く,アート力を磨くならOCHABI,camera,human,0,5,1,6,3
+809,【大阪】脱毛ならこの5つ！,大阪で脱毛、おすすめ5選,camera,human,0,5,1,4,5
+810,最新！借入れ住宅ローン一覧,(2024年版)借入れ在宅ローン一覧,camera,human,4,1,0,0,0
+811,一戸建て査定、すぐに知ろう！,あなたの一戸建て、今すぐ査定,camera,human,1,4,0,2,8
+812,24卒新卒の転職はこちらから,転職するなら【24卒・新卒向け】,camera,human,0,5,0,3,7
+813,介護事務パート、1日1時間〜OK,1日1h〜働く介護事務 パート求人,camera,human,0,5,0,9,1
+814,珍宴で極上の中国料理を,珍宴で本場中国料理を楽しむ,camera,human,2,3,1,3,6
+815,保険料、見直して節約！,保険料見直しでお得に生活,camera,human,0,5,0,6,4
+816,戸建て探しは曳舟で決まり！,曳舟で理想の戸建てを探す,camera,human,0,5,0,4,6
+817,オンラインでAGA治療始めよう,オンラインで始められる AGA治療,camera,human,0,5,2,2,6
+818,安い任意保険、今すぐ比較,【安さで比較】任意保険,camera,human,0,5,0,2,8
+819,北海道で不動産転職！,北海道で不動産転職なら,camera,human,0,5,2,5,3
+820,人気のペット保険、見ましたか？,人気商品はどれ？【ペット保険】,camera,human,2,3,0,4,6
+821,女性向け！秋冬トレンドシューズ,AWトレンドの女性用シューズなら,camera,human,3,2,0,0,0
+822,人気の車リース、その理由は？,人気の理由は？【車リース】,camera,human,0,5,1,2,7
+823,"""ラキューテでお得に買物！""",おトクな買い物はラキューテで,camera,human,0,5,1,6,3
+824,高松市で最高のホテル,高松市で最高のホテルは？,camera,human,0,5,0,7,3
+825,"""市川駅近！理想の戸建て""",市川の駅チカ【理想の戸建て】,camera,human,0,5,2,4,4
+826,教習ローンなら学生もOK!,学生もOKの教習ローンあります,camera,human,0,5,2,3,5
+827,関内の人気ネイルサロン,関内で人気のネイルサロンなら,camera,human,0,5,1,3,6
+828,ハップヘアメイクで新髪型,ハップヘアメイクでイメチェン,camera,human,1,4,1,1,8
+829,中標津空港近くの便利ホテル,中標津空港近くに泊まるなら,camera,human,1,4,0,4,6
+830,「映像学ぶなら専門講座へ」,「専門講座で映像を学びたい」,camera,human,1,4,1,5,4
+831,じぶん銀行カーローン金利低め,低金利／じぶん銀行カーローン,camera,human,0,5,1,3,6
+832,柳瀬川のトップクラス美容院,柳瀬川でトップクラスの美容院,camera,human,0,5,2,1,7
+833,浦和で理想の戸建てを！,浦和で理想の戸建てが見つかる,camera,human,0,5,0,4,6
+834,カードローンなら銀行安心！,安心の銀行カードローン,camera,human,1,4,0,0,10
+835,歯並び矯正なら月4300円！,"月4,300円で歯並び矯正ができる",camera,human,0,5,0,3,7
+836,遺産相続、家や土地を効率的に,家や土地【効率的に遺産相続】,camera,human,2,3,2,4,4
+837,人気のペット保険、見ましたか？,見逃してない？人気のペット保険,camera,human,1,4,1,1,8
+838,【最速】auひかりを体感せよ,auひかり【最速】を体感せよ,camera,human,0,5,0,6,4
+839,【関内でおすすめ】ネイル,【関内】注目のネイルサロン,camera,gpt4,0,5,0,2,8
+840,ギフト券を高く売れる高換金率店,売ギフト券は高額買取保証,camera,gpt4,4,1,0,0,0
+841,"ネット申込みで最大21,000円割引",ネットで最大21K円オフ！,camera,gpt4,3,2,0,0,0
+842,プロ直伝の動画クリエイター講座,"""プロが教える!映像制作講座""",camera,gpt4,1,4,1,4,5
+843,【公式】バーミヤンの持ち帰り,【公式】美味バーミヤン持帰特典,camera,gpt4,4,1,0,0,0
+844,【厳選3社】即日キャッシング,【即日融資】選ばれし3社サービス,camera,gpt4,1,4,2,6,2
+845,【2022年】人気ペット保険を比較,【今年注目】ペット保険徹底比較,camera,gpt4,5,0,0,0,0
+846,医師によるスピード発毛治療,医師推奨！迅速発毛ケア,camera,gpt4,3,2,0,0,0
+847,【12月限定】年末特別価格,【12月限定】お得に年末応援価格,camera,gpt4,0,5,0,6,4
+848,【最新版】医療脱毛おすすめTOP5,【2023年版】医療脱毛ランク5選,camera,gpt4,2,3,1,7,2
+849,【至急】お金が必要ならこの4社,【即解決】急ぎの資金調達4社対応,camera,gpt4,0,5,1,6,3
+850,ダンボール箱即日配達いたします,即日配送！ダンボール箱,camera,gpt4,0,5,1,3,6
+851,バレずにお金借りるならこの3社,気づかれずスマートに借入可能,camera,gpt4,4,1,0,0,0
+852,【本日更新】看護師の求人,【最新】看護師のチャンス!,camera,gpt4,5,0,0,0,0
+853,各社の死亡保険を比較できる,死亡保険、一括比較で安心,camera,gpt4,2,3,0,6,4
+854,トリバゴのおすすめ旅館,マッチする旅館、トリバゴ,camera,gpt4,4,1,0,0,0
+855,IT資産管理が簡単にできる,IT管理、手軽に完璧に,camera,gpt4,2,3,1,3,6
+856,歯並びを1日で治すならこちら,即日完結！美歯列治療はここ,camera,gpt4,1,4,0,6,4
+857,カンタン無料お見積り,「無料」で「即見積」簡単取得！,camera,gpt4,2,3,0,9,1
+858,【300円】から始めるAGA治療,【300円】で始める薄毛改善,camera,gpt4,3,2,0,0,0
+859,【公式】スクールIE／個別指導,【公式】スクールIE・マンツーマン教育,camera,gpt4,1,4,0,9,1
+860,【最新2022年】人気がん保険TOP5,【2022年必見】注目のがん保険５選,camera,gpt4,1,4,0,8,2
+861,エアコン掃除はプロにお任せ,プロが仕上げる清潔空間,camera,gpt4,5,0,0,0,0
+862,今日中にお金借りるならこの３社,即日融資可能な３選!,camera,gpt4,0,5,0,5,5
+863,自分たちの予算に合った結婚式,お二人らしい結婚式を予算内で,camera,gpt4,0,5,0,4,6
+864,医療保険の見直ししませんか？,不安解消！医療保険チェック,camera,gpt4,2,3,1,6,3
+865,ワキガ対策/切らずに1回で完了,ノンカットでワキガ完治!,camera,gpt4,3,2,0,0,0
+866,今すぐオンライン診療予約,即時ネットで診療予約,camera,gpt4,1,4,0,8,2
+867,最大91％OFF / 給湯器交換,驚愕91%OFF! 給湯器即交換,camera,gpt4,1,4,1,6,3
+868,高校で【美容師免許】が取れる,高校在学中に美容師資格,camera,gpt4,0,5,0,4,6
+869,12月キャンペーン/残り21 日,冬を彩る限定オファー/残21日間,camera,gpt4,3,2,0,0,0
+870,【六本木一丁目】整体サロン予約,六本木一丁目の癒し空間予約,camera,gpt4,4,1,0,0,0
+871,不倫で慰謝料請求されたら,不倫トラブル？慰謝料対策！,camera,gpt4,2,3,1,6,3
+872,働きながら学べる動画編集,スキルUP！仕事中動画編集学習,camera,gpt4,3,2,0,0,0
+873,土地の価格評価を調べるなら,土地価値はここで即チェック,camera,gpt4,1,4,1,3,6
+874,睡眠中に美肌。寝ながら贅沢ケア,夜の間に美肌実現。贅沢ケア。,camera,gpt4,1,4,1,6,3
+875,所持金0円でも働ける寮付き求人,手ぶらで始める寮完備仕事,camera,gpt4,3,2,0,0,0
+876,留学保険／主要10社を徹底比較,留学保険は比較で選ぶ!主要10社完全マスター,camera,gpt4,0,5,0,8,2
+877,今すぐお金が必要ならこの4社,即金を掴むなら、この4選,camera,gpt4,2,3,1,7,2
+878,車一括査定はやめたほうがいい？,車査定、本当はNG？【要注意】,camera,gpt4,2,3,0,2,8
+879,【漫画読み放題】7日間完全無料,【無限マンガ読み】0円で7日間！,camera,gpt4,1,4,1,9,0
+880,【公式】チャレンジ3年生,【公式】3年生応援教材,camera,gpt4,3,2,0,0,0
+881,求人掲載したい企業・店舗様向け,企業・店舗の求人効果UP,camera,gpt4,3,2,0,0,0
+882,銀行カードローンはどこが良い？,最適なカードローン探し,camera,gpt4,3,2,0,0,0
+883,低価格でおもてなし重視の結婚式,絶妙価格で心温まる式,camera,gpt4,5,0,0,0,0
+884,"【HIS】日帰りバス6,800円～","【HIS】6,800円～日帰り快適バス",camera,gpt4,0,5,0,5,5
+885,【日本最大】Creema(クリーマ),【国内最大級】Creemaで発見！,camera,gpt4,0,5,0,4,6
+886,東京でブランド品、高価買取,東京高級ブランド即金買取,camera,gpt4,2,3,0,6,4
+887,eスポーツを極める専門校,eスポーツの頂点を目指せ!,camera,gpt4,4,1,0,0,0
+888,60日間でWebデザイナーを目指す,60日で夢のウェブデザイン,camera,gpt4,3,2,0,0,0
+889,あなたのマンション今いくら？,今のマンション、高値で売れる?,camera,gpt4,2,3,0,8,2
+890,AGA治療の費用はお薬代のみ,AGA撃退、薬代だけでOK!,camera,gpt4,0,5,2,6,2
+891,求人募集 福岡をお探しの企業様,企業向け！福岡の求人掲載,camera,gpt4,1,4,1,1,8
+892,社内の稟議・決裁をWeb上で完結,Webで稟議・決裁をスピード解決,camera,gpt4,2,3,1,3,6
+893,求人の出し方にお困りなら,採用課題を即解決！,camera,gpt4,5,0,0,0,0
+894,エアコン掃除はプロにお任せ,プロが綺麗にエアコン清掃,camera,gpt4,0,5,0,7,3
+895,1日でできるLIXILの「まど断熱」,即日完了！LIXIL断熱窓,camera,gpt4,1,4,1,3,6
+896,クレカ 審査なし,即時発行！クレジットカード,camera,gpt4,4,1,0,0,0
+897,正職員登用制度あり,安定した未来への扉,camera,gpt4,5,0,0,0,0
+898,桜木町のホテル【最安値】予約,春の桜木町【特別価格】宿泊,camera,gpt4,5,0,0,0,0
+899,1日1時間〜OK女性向け時短パート,女性に優しい短時間バイト,camera,gpt4,4,1,0,0,0
+900,飛騨古川温泉の宿予約,秘湯・飛騨古川で癒し宿泊,camera,gpt4,2,3,0,3,7
+901,他社の見積書提示でさらに割引,見積書持参で特別割引,camera,gpt4,2,3,0,8,2
+902,クラウドだから常に最新の機能,いつでも最先端、クラウド更新,camera,gpt4,2,3,0,6,4
+903,安中市 建売価格が安い順で探す,安中市 建売低価格でピックアップ,camera,gpt4,0,5,0,3,7
+904,アゴダで格安のホテル予約,お手頃価格で夢の宿を予約,camera,gpt4,5,0,0,0,0
+905,給与計算業務アウトソーシング,給与計算はお任せあれ!,camera,gpt4,2,3,0,4,6
+906,複数の保険を簡単比較,簡単！保険比較でベスト選択,camera,gpt4,0,5,0,4,6
+907,京都 伏見駅の格安ホテル,伏見駅至近!お得に泊まる,camera,gpt4,1,4,0,6,4
+908,かんたん5分でシミュレーション,手軽に5分で理想診断,camera,gpt4,2,3,0,6,4
+909,レイトチェックアウト可能プラン,ゆっくり出発OKの宿泊プラン,camera,gpt4,2,3,0,2,8
+910,【登戸でおすすめ】美容院,【登戸】高評価サロン発見！,camera,gpt4,3,2,0,0,0
+911,"初月のAGA治療費は1,000円のみ",初月たった1000円でAGA治療,camera,gpt4,0,5,1,6,3
+912,かまいたちCM出演中,鮮烈！かまいたちのCM登場,camera,gpt4,0,5,1,3,6
+913,保険料は一生涯上がりません,一生涯保険料不変です,camera,gpt4,0,5,0,8,2
+914,レガリアベッド／最低価格保証,驚きの価格！レガリアベッド,camera,gpt4,4,1,0,0,0
+915,司法書士 料金表 相続,相続手続きは司法書士へ,camera,gpt4,5,0,0,0,0
+916,クラウドPBXおすすめ比較,PBX選びに迷ったらココ,camera,gpt4,4,1,0,0,0
+917,美瑛の温泉の宿予約,美瑛温泉、宿の予約はこちら,camera,gpt4,0,5,0,2,8
+918,VRを活用した体験型学校教育,VRで学ぶ！体感型教育革命,camera,gpt4,2,3,0,2,8
+919,お金を借りるなら、どこがいい？,あなたにぴったり金融案内！ ,camera,gpt4,4,1,0,0,0
+920,料金比較でお得にホテル予約,最安値保証！ホテル予約,camera,gpt4,5,0,0,0,0
+921,はじめての脱毛デビューなら,初脱毛は当店でキレイに,camera,gpt4,2,3,0,8,2
+922,人探し探偵 おすすめランキング,人探しの名探偵 厳選リスト,camera,gpt4,4,1,0,0,0
+923,中目黒で当日給料手渡し可能,,camera,gpt4,5,0,0,0,0
+924,【公式】ピッコマ／待てば無料,【公式】0円で読書を満喫,camera,gpt4,5,0,0,0,0
+925,2024新卒 IT向け就活サイト,2024卒必見！IT就活応援サイト,camera,gpt4,0,5,0,1,9
+926,今すぐネットでかんたん見積り,即時ネット簡単見積もり,camera,gpt4,0,5,1,6,3
+927,低金利の金融機関も比較できる,金融比較で低金利を発見,camera,gpt4,1,4,0,9,1
+928,人気の女性向け医療保険,女性が選ぶベスト保険,camera,gpt4,4,1,0,0,0
+929,有馬温泉 最安値ホテル,格安！有馬温泉の極上宿,camera,gpt4,3,2,0,0,0
+930,すぐに保険の見積もりができます,即時・保険見積もり実現,camera,gpt4,0,5,2,5,3
+931,dodaは公務員の転職に強い,公務員転職もdodaにお任せ,camera,gpt4,0,5,0,4,6
+932,このペット保険デメリットある？,ペット保険、疑問を解消!,camera,gpt4,4,1,0,0,0
+933,梅田 ホテル 予約,梅田で快適ホテル予約,camera,gpt4,0,5,1,2,7
+934,今の電気代と比較してください,電気代、見直しませんか？,camera,gpt4,1,4,0,5,5
+935,学校で美容を学ぼう！,学び舎で美の技を習得！,camera,gpt4,2,3,1,4,5
+936,【必見】車の保険、最安値で！,【速報】車保険、衝撃の低価格！,camera,gpt4,1,4,1,4,5
+937,andar通販でセール開催！,andarセール！今すぐクリック,camera,gpt4,1,4,1,6,3
+938,mitsuiでショッピングを楽しむ！,三井で選ぶ、お買い物快感！,camera,gpt4,2,3,2,3,5
+939,歯並び矯正なら月4300円！,スマイル応援！月々4300円！,camera,gpt4,4,1,0,0,0
+940,介護転職ランキングTOP3！,介護・転職の頂点3選！,camera,gpt4,0,5,0,9,1
+941,アートスキル、OCHABIで磨く,驚きのアート技能、OCHABI,camera,gpt4,3,2,0,0,0
+942,【大阪】脱毛ならこの5つ！,【大阪】話題の脱毛5選！,camera,gpt4,0,5,1,1,8
+943,最新！借入れ住宅ローン一覧,最先端！住宅ローン比較表,camera,gpt4,2,3,1,3,6
+944,一戸建て査定、すぐに知ろう！,即答！一戸建て査定価格,camera,gpt4,0,5,0,1,9
+945,24卒新卒の転職はこちらから,24卒のキャリア、ここから始動,camera,gpt4,4,1,0,0,0
+946,介護事務パート、1日1時間〜OK,介護事務、1h〜柔軟対応可能,camera,gpt4,3,2,0,0,0
+947,珍宴で極上の中国料理を,極品中華、至高の珍宴を,camera,gpt4,1,4,0,5,5
+948,保険料、見直して節約！,保険料削減！今すぐ見直し,camera,gpt4,1,4,0,4,6
+949,戸建て探しは曳舟で決まり！,曳舟で理想の一軒家を！,camera,gpt4,2,3,1,3,6
+950,オンラインでAGA治療始めよう,ネットで手軽にAGA対策,camera,gpt4,2,3,1,2,7
+951,安い任意保険、今すぐ比較,低価格で選ぶ保険比較,camera,gpt4,3,2,0,0,0
+952,北海道で不動産転職！,北の地でキャリアUP！,camera,gpt4,4,1,0,0,0
+953,人気のペット保険、見ましたか？,注目のペット保険、チェック済？,camera,gpt4,0,5,0,5,5
+954,女性向け！秋冬トレンドシューズ,秋冬必見！レディースシューズ,camera,gpt4,1,4,1,8,1
+955,人気の車リース、その理由は？,人気車リースの秘密、公開！,camera,gpt4,0,5,0,5,5
+956,"""ラキューテでお得に買物！""","""ラキューテ限定！大特価セール""",camera,gpt4,3,2,0,0,0
+957,高松市で最高のホテル,高松市の最上級ホテル,camera,gpt4,1,4,0,1,9
+958,"""市川駅近！理想の戸建て""",市川駅スグ！夢の一戸建て,camera,gpt4,0,5,0,5,5
+959,教習ローンなら学生もOK!,学生応援！教習ローン可,camera,gpt4,0,5,1,5,4
+960,関内の人気ネイルサロン,関内注目！ネイルの極み,camera,gpt4,3,2,0,0,0
+961,ハップヘアメイクで新髪型,魅力爆発！新ヘアで自信UP,camera,gpt4,5,0,0,0,0
+962,中標津空港近くの便利ホテル,中標津空港そば快適宿,camera,gpt4,0,5,0,9,1
+963,「映像学ぶなら専門講座へ」,「映像制作は専門講座で習得」,camera,gpt4,0,5,0,8,2
+964,じぶん銀行カーローン金利低め,自分仕様の低金利カーローン,camera,gpt4,4,1,0,0,0
+965,柳瀬川のトップクラス美容院,柳瀬川の美容の星、輝くサロン,camera,gpt4,4,1,0,0,0
+966,浦和で理想の戸建てを！,浦和の夢のマイホーム！,camera,gpt4,1,4,0,5,5
+967,カードローンなら銀行安心！,即日融資可！銀行の安心感,camera,gpt4,3,2,0,0,0
+968,歯並び矯正なら月4300円！,"月¥4,300で美歯列へ変身！",camera,gpt4,0,5,0,7,3
+969,遺産相続、家や土地を効率的に,家・土地相続スムーズに,camera,gpt4,3,2,0,0,0
+970,人気のペット保険、見ましたか？,注目のペット保険、チェック済？,camera,gpt4,0,5,1,1,8
+971,【最速】auひかりを体感せよ,【驚速体感】auひかりで快適!,camera,gpt4,1,4,0,4,6
+972,【関内でおすすめ】ネイル,【関内の必須アイテム】ネイル,camera,gpt35,4,1,0,0,0
+973,ギフト券を高く売れる高換金率店,最高換金率のギフト券買取店,camera,gpt35,1,4,0,2,8
+974,"ネット申込みで最大21,000円割引","ネット特典 最大21,000円 OFF",camera,gpt35,0,5,0,7,3
+975,プロ直伝の動画クリエイター講座,プロの動画クリエイター講座,camera,gpt35,1,4,0,8,2
+976,【公式】バーミヤンの持ち帰り,【公式】バーミヤンのテイクアウト,camera,gpt35,0,5,1,2,7
+977,【厳選3社】即日キャッシング,【最短即日】キャッシングOK,camera,gpt35,4,1,0,0,0
+978,【2022年】人気ペット保険を比較,2022年新作！ペット保険を比較,camera,gpt35,1,4,0,8,2
+979,医師によるスピード発毛治療,医師監修の発毛治療,camera,gpt35,4,1,0,0,0
+980,【12月限定】年末特別価格,【12月限定】年末特価！,camera,gpt35,0,5,0,5,5
+981,【最新版】医療脱毛おすすめTOP5,【最新】医療脱毛おすすめランキング,camera,gpt35,0,5,1,6,3
+982,【至急】お金が必要ならこの4社,急ぎ！お金を手に入れるならこの4社,camera,gpt35,0,5,0,8,2
+983,ダンボール箱即日配達いたします,即日配達のダンボール箱,camera,gpt35,0,5,0,6,4
+984,バレずにお金借りるならこの3社,バレずに借入可能！この3社,camera,gpt35,1,4,1,3,6
+985,【本日更新】看護師の求人,【本日募集】看護師の求人,camera,gpt35,1,4,1,7,2
+986,各社の死亡保険を比較できる,最適な死亡保険を比較,camera,gpt35,1,4,0,4,6
+987,トリバゴのおすすめ旅館,トリバゴの高評価旅館,camera,gpt35,1,4,0,7,3
+988,IT資産管理が簡単にできる,IT資産を簡単に管理,camera,gpt35,0,5,1,5,4
+989,歯並びを1日で治すならこちら,瞬時に歯並びを整えます!,camera,gpt35,5,0,0,0,0
+990,カンタン無料お見積り,カンタン見積もり無料,camera,gpt35,0,5,2,5,3
+991,【300円】から始めるAGA治療,AGA治療【300円】から,camera,gpt35,0,5,1,6,3
+992,【公式】スクールIE／個別指導,【公式】スクールIE／完全個別指導,camera,gpt35,0,5,0,1,9
+993,【最新2022年】人気がん保険TOP5,【最新2022年】がん保険ランキングTOP5,camera,gpt35,0,5,1,6,3
+994,エアコン掃除はプロにお任せ,プロに依頼してエアコンの掃除をお任せ,camera,gpt35,1,4,0,9,1
+995,今日中にお金借りるならこの３社,今日借りたいならこの3社,camera,gpt35,0,5,1,8,1
+996,自分たちの予算に合った結婚式,お手頃価格での結婚式,camera,gpt35,3,2,0,0,0
+997,医療保険の見直ししませんか？,医療保険見直し、いかが？,camera,gpt35,0,5,1,8,1
+998,ワキガ対策/切らずに1回で完了,1回で完了！ワキガ対策,camera,gpt35,3,2,0,0,0
+999,今すぐオンライン診療予約,オンラインで診療予約始めましょう,camera,gpt35,0,5,1,8,1
+1000,最大91％OFF / 給湯器交換,お得な91％OFF / 給湯器交換,camera,gpt35,0,5,0,3,7
+1001,高校で【美容師免許】が取れる,美容師免許が高校で取得可能,camera,gpt35,0,5,0,8,2
+1002,12月キャンペーン/残り21 日,年末セール/残り21日,camera,gpt35,3,2,0,0,0
+1003,【六本木一丁目】整体サロン予約,「六本木1丁目で整体予約」,camera,gpt35,0,5,1,9,0
+1004,不倫で慰謝料請求されたら,不倫で慰謝料トラブル？,camera,gpt35,2,3,1,5,4
+1005,働きながら学べる動画編集, 動画編集を仕事と並行して学べます,camera,gpt35,0,5,0,7,3
+1006,土地の価格評価を調べるなら,土地価格の検索なら,camera,gpt35,0,5,1,6,3
+1007,睡眠中に美肌。寝ながら贅沢ケア,美肌寝ながら贅沢ケア,camera,gpt35,0,5,0,6,4
+1008,所持金0円でも働ける寮付き求人,寮費無料！0円でも働ける求人,camera,gpt35,1,4,0,5,5
+1009,留学保険／主要10社を徹底比較,留学保険／主要10社と比較,camera,gpt35,0,5,0,10,0
+1010,今すぐお金が必要ならこの4社,急な出費にはこの4社,camera,gpt35,0,5,0,6,4
+1011,車一括査定はやめたほうがいい？,車一括査定の注意点,camera,gpt35,3,2,0,0,0
+1012,【漫画読み放題】7日間完全無料,【マンガ読み放題】7日間無料体験,camera,gpt35,0,5,1,2,7
+1013,【公式】チャレンジ3年生,【公式】一流のスキルを身につけよう,camera,gpt35,5,0,0,0,0
+1014,求人掲載したい企業・店舗様向け,採用力UP！求人広告,camera,gpt35,5,0,0,0,0
+1015,銀行カードローンはどこが良い？,銀行カードローン、どこが一番？,camera,gpt35,3,2,0,0,0
+1016,低価格でおもてなし重視の結婚式,お手頃価格でおもてなし重視の結婚式,camera,gpt35,0,5,1,6,3
+1017,"【HIS】日帰りバス6,800円～","【HIS】日帰りバス6,800円～ - 新たな情報を追加、または情報を削除せずに魅力的に言い換えることはできません。",camera,gpt35,4,1,0,0,0
+1018,【日本最大】Creema(クリーマ),【日本最大】Creema(クリーマ) - 手作り品のマーケットプレイス,camera,gpt35,2,3,0,3,7
+1019,東京でブランド品、高価買取,東京で人気のブランド品を高価買取,camera,gpt35,0,5,0,5,5
+1020,eスポーツを極める専門校,eスポーツ専門校,camera,gpt35,0,5,0,6,4
+1021,60日間でWebデザイナーを目指す,- 60日でWebデザイナーになろう,camera,gpt35,1,4,0,9,1
+1022,あなたのマンション今いくら？,マンションの価値、チェック！,camera,gpt35,1,4,1,7,2
+1023,AGA治療の費用はお薬代のみ,AGA治療の費用はお薬代のみOK,camera,gpt35,0,5,1,7,2
+1024,求人募集 福岡をお探しの企業様,福岡の求人募集、企業さま,camera,gpt35,3,2,0,0,0
+1025,社内の稟議・決裁をWeb上で完結,オンラインで社内の稟議・決裁完結,camera,gpt35,1,4,0,3,7
+1026,求人の出し方にお困りなら,求人広告の作成は難しいですか？,camera,gpt35,4,1,0,0,0
+1027,エアコン掃除はプロにお任せ,プロの手でエアコン掃除,camera,gpt35,1,4,2,6,2
+1028,1日でできるLIXILの「まど断熱」,1日で完成！LIXIL「まど断熱」,camera,gpt35,0,5,0,4,6
+1029,クレカ 審査なし,簡単クレカ OK,camera,gpt35,4,1,0,0,0
+1030,正職員登用制度あり,新卒歓迎,camera,gpt35,5,0,0,0,0
+1031,桜木町のホテル【最安値】予約,桜木町のホテル【超お得】予約,camera,gpt35,2,3,0,6,4
+1032,1日1時間〜OK女性向け時短パート,魅力的なアイデアを考える時間は1時間だけ！,camera,gpt35,5,0,0,0,0
+1033,飛騨古川温泉の宿予約,飛騨温泉宿泊予約,camera,gpt35,0,5,3,3,4
+1034,他社の見積書提示でさらに割引,見積提示でさらに割引,camera,gpt35,1,4,2,4,4
+1035,クラウドだから常に最新の機能,最新機能満載のクラウド,camera,gpt35,0,5,0,2,8
+1036,安中市 建売価格が安い順で探す,安中市で最もお得な建売りを探そう,camera,gpt35,3,2,0,0,0
+1037,アゴダで格安のホテル予約,アゴダでお得なホテル予約,camera,gpt35,0,5,1,6,3
+1038,給与計算業務アウトソーシング,給与計算のプロにお任せ,camera,gpt35,2,3,0,3,7
+1039,複数の保険を簡単比較,お得な保険を簡単比較,camera,gpt35,2,3,0,3,7
+1040,京都 伏見駅の格安ホテル,京都 伏見駅のお得な宿,camera,gpt35,1,4,0,4,6
+1041,かんたん5分でシミュレーション,5分で簡単シミュレーション,camera,gpt35,0,5,0,4,6
+1042,レイトチェックアウト可能プラン,"最大15文字で制作する必要があります。 ""レイトチェックアウト可能""",camera,gpt35,5,0,0,0,0
+1043,【登戸でおすすめ】美容院,【登戸注目】美容院,camera,gpt35,0,5,0,8,2
+1044,"初月のAGA治療費は1,000円のみ","1ヶ月AGA治療費わずか1,000円",camera,gpt35,2,3,0,8,2
+1045,かまいたちCM出演中,かまいたち話題沸騰,camera,gpt35,5,0,0,0,0
+1046,保険料は一生涯上がりません,- 一生涯安心の保険料,camera,gpt35,3,2,0,0,0
+1047,レガリアベッド／最低価格保証,最安値保証／レガリアベッド,camera,gpt35,0,5,1,4,5
+1048,司法書士 料金表 相続,相続手続きは司法書士にお任せ,camera,gpt35,5,0,0,0,0
+1049,クラウドPBXおすすめ比較,クラウドPBX比較最適化,camera,gpt35,2,3,1,7,2
+1050,美瑛の温泉の宿予約,美瑛温泉の宿予約,camera,gpt35,0,5,2,1,7
+1051,VRを活用した体験型学校教育,VRで学ぼう！,camera,gpt35,3,2,0,0,0
+1052,お金を借りるなら、どこがいい？,急な出費も安心！最適な借り方は？,camera,gpt35,5,0,0,0,0
+1053,料金比較でお得にホテル予約,ホテル予約をお得に！比較して探そう,camera,gpt35,0,5,0,7,3
+1054,はじめての脱毛デビューなら,脱毛初心者におすすめ,camera,gpt35,0,5,0,7,3
+1055,人探し探偵 おすすめランキング,失踪者探偵ランキング,camera,gpt35,3,2,0,0,0
+1056,中目黒で当日給料手渡し可能,当日給料手渡し可能！,camera,gpt35,4,1,0,0,0
+1057,【公式】ピッコマ／待てば無料,「【公式】ピッコマ／待つと無料」,camera,gpt35,0,5,2,6,2
+1058,2024新卒 IT向け就活サイト,新卒向けIT求人サイト 2024,camera,gpt35,0,5,1,8,1
+1059,今すぐネットでかんたん見積り,即見積もりできます,camera,gpt35,4,1,0,0,0
+1060,低金利の金融機関も比較できる,金利比較できる,camera,gpt35,2,3,0,8,2
+1061,人気の女性向け医療保険,女性に人気の医療保険,camera,gpt35,0,5,0,2,8
+1062,有馬温泉 最安値ホテル,有馬温泉 オトクな宿,camera,gpt35,3,2,0,0,0
+1063,すぐに保険の見積もりができます,簡単見積もり！即日保険相談,camera,gpt35,4,1,0,0,0
+1064,dodaは公務員の転職に強い,dodaで公務員の転職を成功させよう,camera,gpt35,1,4,0,5,5
+1065,このペット保険デメリットある？,ペット保険のデメリットは？,camera,gpt35,0,5,1,0,9
+1066,梅田 ホテル 予約,梅田ホテル 最安値,camera,gpt35,5,0,0,0,0
+1067,今の電気代と比較してください,電気代を比較しよう,camera,gpt35,1,4,0,5,5
+1068,学校で美容を学ぼう！,美容学校で学ぼう！,camera,gpt35,0,5,0,5,5
+1069,【必見】車の保険、最安値で！,【最安値】車の保険、必見！,camera,gpt35,0,5,1,4,5
+1070,andar通販でセール開催！,andar通販でセール中！,camera,gpt35,0,5,2,3,5
+1071,mitsuiでショッピングを楽しむ！,mitsuiでお得なショッピングを楽しむ！,camera,gpt35,2,3,0,1,9
+1072,歯並び矯正なら月4300円！,歯並び矯正なら月4300円〜,camera,gpt35,1,4,2,6,2
+1073,介護転職ランキングTOP3！,介護転職のトップ3ランキング,camera,gpt35,0,5,2,8,0
+1074,アートスキル、OCHABIで磨く,アートスキル、OCHABIで更なる磨き,camera,gpt35,0,5,1,5,4
+1075,【大阪】脱毛ならこの5つ！,【大阪】脱毛ならこの5つ！ → 【大阪】脱毛ならこの5つも！,camera,gpt35,0,5,2,5,3
+1076,最新！借入れ住宅ローン一覧,新着！住宅ローンの選択肢,camera,gpt35,0,5,1,7,2
+1077,一戸建て査定、すぐに知ろう！,即戦力！一戸建て査定,camera,gpt35,4,1,0,0,0
+1078,24卒新卒の転職はこちらから,新卒の転職はこちらから,camera,gpt35,3,2,0,0,0
+1079,介護事務パート、1日1時間〜OK,柔軟な働き方で介護事務パート,camera,gpt35,5,0,0,0,0
+1080,珍宴で極上の中国料理を,- 中国料理の極上美味、珍し宴,camera,gpt35,2,3,0,7,3
+1081,保険料、見直して節約！,保険料見直しでお得に！,camera,gpt35,0,5,0,3,7
+1082,戸建て探しは曳舟で決まり！,曳舟で理想の戸建てを見つけよう！,camera,gpt35,0,5,1,5,4
+1083,オンラインでAGA治療始めよう,- AGA治療はオンラインで可能,camera,gpt35,0,5,0,8,2
+1084,安い任意保険、今すぐ比較,お得な任意保険、比較開始,camera,gpt35,1,4,0,6,4
+1085,北海道で不動産転職！,北海道での不動産転職！,camera,gpt35,0,5,2,8,0
+1086,人気のペット保険、見ましたか？,ペット保険の人気、みました？,camera,gpt35,1,4,1,9,0
+1087,女性向け！秋冬トレンドシューズ,トレンドシューズ秋冬新作,camera,gpt35,4,1,0,0,0
+1088,人気の車リース、その理由は？,車リースの魅力、その秘密は？,camera,gpt35,0,5,0,8,2
+1089,"""ラキューテでお得に買物！""","""ラキューテでお得な買い物ができる！""",camera,gpt35,0,5,0,7,3
+1090,高松市で最高のホテル,高松の最高ホテル,camera,gpt35,0,5,1,6,3
+1091,"""市川駅近！理想の戸建て""","""駅近！理想の戸建て""",camera,gpt35,4,1,0,0,0
+1092,教習ローンなら学生もOK!,学生も利用可能な教習ローン!,camera,gpt35,0,5,0,5,5
+1093,関内の人気ネイルサロン,関内のネイルサロン,camera,gpt35,0,5,0,9,1
+1094,ハップヘアメイクで新髪型,ハップヘアメイクでトレンド髪型,camera,gpt35,1,4,0,0,10
+1095,中標津空港近くの便利ホテル,中標津✨空港近くの便利ホテル,camera,gpt35,0,5,1,5,4
+1096,「映像学ぶなら専門講座へ」,「専門講座で映像学ぶ」,camera,gpt35,0,5,1,7,2
+1097,じぶん銀行カーローン金利低め,金利低！じぶん銀行カーローン,camera,gpt35,0,5,1,3,6
+1098,柳瀬川のトップクラス美容院,柳瀬川No.1美容室,camera,gpt35,2,3,0,3,7
+1099,浦和で理想の戸建てを！,浦和の夢の戸建て！,camera,gpt35,0,5,1,9,0
+1100,カードローンなら銀行安心！,銀行カードローンで安心利用,camera,gpt35,1,4,0,1,9
+1101,歯並び矯正なら月4300円！,月4300円から！歯並び矯正,camera,gpt35,1,4,0,4,6
+1102,遺産相続、家や土地を効率的に,遺産相続、家や土地をスムーズに,camera,gpt35,0,5,0,4,6
+1103,人気のペット保険、見ましたか？,大人気のペット保険、見逃さないでください！,camera,gpt35,2,3,0,4,6
+1104,【最速】auひかりを体感せよ,【驚速】auひかりを体感せよ,camera,gpt35,1,4,1,7,2
+1105,【関内でおすすめ】ネイル,【関内でおすすめ】ジェルネイル,camera,llama2,0,5,4,2,4
+1106,ギフト券を高く売れる高換金率店,高価買取のギフトショップ ネット,camera,llama2,4,1,0,0,0
+1107,"ネット申込みで最大21,000円割引","ネットで今日、お申込みで21,000円割引",camera,llama2,2,3,0,10,0
+1108,プロ直伝の動画クリエイター講座,プロの動画編集テクニックを学ぶことができる講座,camera,llama2,1,4,0,9,1
+1109,【公式】バーミヤンの持ち帰り,【公式】バーミヤンの宅配,camera,llama2,3,2,0,0,0
+1110,【厳選3社】即日キャッシング,【厳選】即日キャッシング3社まとめてお申し込みでお得,camera,llama2,4,1,0,0,0
+1111,【2022年】人気ペット保険を比較,【2022年】人気のペット保険をランキングで比較,camera,llama2,2,3,0,5,5
+1112,医師によるスピード発毛治療,スピード発毛で医師と話してるだけで癒やされます,camera,llama2,4,1,0,0,0
+1113,【12月限定】年末特別価格,【12月限定】年末特別価格,camera,llama2,0,5,10,0,0
+1114,【最新版】医療脱毛おすすめTOP5,医療脱毛の口コミ・評判でおすすめのクリニックをTOP5で紹介,camera,llama2,2,3,0,8,2
+1115,【至急】お金が必要ならこの4社,【至急】お金が必要ならこの4社,camera,llama2,0,5,10,0,0
+1116,ダンボール箱即日配達いたします,ダンボール通販 即日配達,camera,llama2,0,5,2,5,3
+1117,バレずにお金借りるならこの3社,バレずにお金借りるならこの3社,camera,llama2,0,5,9,1,0
+1118,【本日更新】看護師の求人,【今日だけ】看護師の求人,camera,llama2,4,1,0,0,0
+1119,各社の死亡保険を比較できる,各社の死亡保険を一括で比較・相談できます。,camera,llama2,1,4,0,3,7
+1120,トリバゴのおすすめ旅館,トリバゴおすすめの旅館が見つけられる！,camera,llama2,0,5,1,4,5
+1121,IT資産管理が簡単にできる,IT資産管理が楽になる,camera,llama2,1,4,0,6,4
+1122,歯並びを1日で治すならこちら,歯並びが気になるあなた。1日で矯正できる方法をご存知ですか？ 専用,camera,llama2,1,4,0,8,2
+1123,カンタン無料お見積り,無料です,camera,llama2,4,1,0,0,0
+1124,【300円】から始めるAGA治療,【初月料金】から始めるAGA治療,camera,llama2,4,1,0,0,0
+1125,【公式】スクールIE／個別指導,【個別指導】スクールIEの通信制高校,camera,llama2,4,1,0,0,0
+1126,【最新2022年】人気がん保険TOP5,【最新2022年】人気がん保険TOP5,camera,llama2,0,5,9,1,0
+1127,エアコン掃除はプロにお任せ,エアコン汚れで悩まない生活を,camera,llama2,4,1,0,0,0
+1128,今日中にお金借りるならこの３社,今日中にお金借りるならこの3社,camera,llama2,0,5,9,0,1
+1129,自分たちの予算に合った結婚式,自分たちの理想の結婚式を手頃な予算で,camera,llama2,3,2,0,0,0
+1130,医療保険の見直ししませんか？,医療保険の掛け金や医療の現状、あなたにぴったりの保��,camera,llama2,4,1,0,0,0
+1131,ワキガ対策/切らずに1回で完了,ワキガ対策/切らずに1回で完了,camera,llama2,0,5,10,0,0
+1132,今すぐオンライン診療予約,今すぐオンライン診療予約する,camera,llama2,0,5,0,6,4
+1133,最大91％OFF / 給湯器交換,最大91％OFF 給湯器交換,camera,llama2,0,5,2,6,2
+1134,高校で【美容師免許】が取れる,高校で美容師の国家資格「美容師免許」が取得できる,camera,llama2,0,5,0,6,4
+1135,12月キャンペーン/残り21 日,12月限りの特別価格！ 残り21日,camera,llama2,2,3,0,3,7
+1136,【六本木一丁目】整体サロン予約,六本木一丁目の整体サロンの予約をするなら◎,camera,llama2,1,4,0,5,5
+1137,不倫で慰謝料請求されたら,不倫で慰謝料請求されたら、弁護士を通じて賠償金の支,camera,llama2,3,2,0,0,0
+1138,働きながら学べる動画編集,働きながら学べる動画編集スキルを身につけよう,camera,llama2,0,5,0,5,5
+1139,土地の価格評価を調べるなら,土地の売却価格を調べるには,camera,llama2,1,4,2,4,4
+1140,睡眠中に美肌。寝ながら贅沢ケア,睡眠中に美肌。寝ながら贅沢ケア,camera,llama2,0,5,10,0,0
+1141,所持金0円でも働ける寮付き求人,所持金なくても大丈夫！寮完備の求人を探す,camera,llama2,1,4,0,5,5
+1142,留学保険／主要10社を徹底比較,留学保険／格安航空券とのセットも,camera,llama2,4,1,0,0,0
+1143,今すぐお金が必要ならこの4社,今すぐお金が必要ならこの4社,camera,llama2,0,5,10,0,0
+1144,車一括査定はやめたほうがいい？,車を高く売る方法を知りたい方にお役立て下さい。一括査定をすることで,camera,llama2,5,0,0,0,0
+1145,【漫画読み放題】7日間完全無料,毎日読みたい漫画が見つけられる♪7日間完全無料でお試し,camera,llama2,2,3,0,7,3
+1146,【公式】チャレンジ3年生,3年生のチャレンジは、学校の宿題をするだけではもらえません。,camera,llama2,5,0,0,0,0
+1147,求人掲載したい企業・店舗様向け,求人情報をお掲載いただくと掲載料金がお得になるキャンペーン実施,camera,llama2,5,0,0,0,0
+1148,銀行カードローンはどこが良い？,銀行カードローンの審査はどこが良い？ 信用情報に支障があるなど、様,camera,llama2,3,2,0,0,0
+1149,低価格でおもてなし重視の結婚式,格安でおもてなし重視の結婚式,camera,llama2,1,4,0,6,4
+1150,"【HIS】日帰りバス6,800円～","【HIS】日帰りバス6,800円～",camera,llama2,0,5,10,0,0
+1151,【日本最大】Creema(クリーマ),【日本最大】Creema(クリーマ),camera,llama2,0,5,9,1,0
+1152,東京でブランド品、高価買取,ブランド品を高く買い取ってもらいたい,camera,llama2,4,1,0,0,0
+1153,eスポーツを極める専門校,eスポーツのプロを育成する専門学校,camera,llama2,1,4,1,3,6
+1154,60日間でWebデザイナーを目指す,Webデザイナーを60日間で目指す。,camera,llama2,0,5,0,7,3
+1155,あなたのマンション今いくら？,あなたのマンションの今いくら？ お部屋情報検索ならSUUMOで,camera,llama2,3,2,0,0,0
+1156,AGA治療の費用はお薬代のみ,AGA治療の費用はお薬代だけで、相場よりもリーズナブル,camera,llama2,1,4,1,7,2
+1157,求人募集 福岡をお探しの企業様,求人情報をご紹介します,camera,llama2,5,0,0,0,0
+1158,社内の稟議・決裁をWeb上で完結,社内の手続きをWeb上で行えば、時間とコストの削減につながるかもしれません,camera,llama2,4,1,0,0,0
+1159,求人の出し方にお困りなら,求人の出し方がわからない方、お悔やみ申し上げます。 幸いなことに、ハイクリ,camera,llama2,4,1,0,0,0
+1160,エアコン掃除はプロにお任せ,エアコン汚れで悩まない生活を,camera,llama2,5,0,0,0,0
+1161,1日でできるLIXILの「まど断熱」,1日でできるLIXILの「まど断熱」,camera,llama2,0,5,10,0,0
+1162,クレカ 審査なし,クレジットカード 審査 無い,camera,llama2,0,5,0,8,2
+1163,正職員登用制度あり,正社員になることができる可能性があります,camera,llama2,0,5,1,9,0
+1164,桜木町のホテル【最安値】予約,桜木町の格安ホテルを最大限に比較して予約。,camera,llama2,2,3,1,8,1
+1165,1日1時間〜OK女性向け時短パート,1日だけ・あるいは1時間だけ,camera,llama2,5,0,0,0,0
+1166,飛騨古川温泉の宿予約,飛騨古川温泉の宿を予約するなら、お得な情報を見つけて下さい。,camera,llama2,2,3,0,7,3
+1167,他社の見積書提示でさらに割引,他社の見積書を提示して、さらに割引します,camera,llama2,0,5,2,4,4
+1168,クラウドだから常に最新の機能,クラウドだから最新の機能を自由に選ぶことができます。,camera,llama2,2,3,0,6,4
+1169,安中市 建売価格が安い順で探す,安中市 新築一戸建て 価格情報が満載！ 安中市 建売 価格,camera,llama2,5,0,0,0,0
+1170,アゴダで格安のホテル予約,格安でおしゃれなホテルを探すならアゴダで。,camera,llama2,2,3,0,3,7
+1171,給与計算業務アウトソーシング,給与計算から人事情報の管理までトータルにサポートします。,camera,llama2,3,2,0,0,0
+1172,複数の保険を簡単比較,複数の保険料を一括比較しておトクな保険選び,camera,llama2,0,5,1,5,4
+1173,京都 伏見駅の格安ホテル,京都 伏見駅 格安ホテル,camera,llama2,0,5,4,5,1
+1174,かんたん5分でシミュレーション,かんたん5分でシミュレーション,camera,llama2,0,5,10,0,0
+1175,レイトチェックアウト可能プラン,レイトチェックアウトで、のびのびとお過ごしいただけるプラン,camera,llama2,1,4,2,3,5
+1176,【登戸でおすすめ】美容院,【登戸でおすすめ】美容院,camera,llama2,0,5,8,2,0
+1177,"初月のAGA治療費は1,000円のみ","初月だけ1,000円でAGA治療が受けられます",camera,llama2,0,5,0,7,3
+1178,かまいたちCM出演中,かまいたち、CM出演中,camera,llama2,0,5,2,5,3
+1179,保険料は一生涯上がりません,保険料は定年まで払えば一生涯、上がることはありません,camera,llama2,3,2,0,0,0
+1180,レガリアベッド／最低価格保証,レガリアベッド／最安値でご提供,camera,llama2,3,2,0,0,0
+1181,司法書士 料金表 相続,司法書士の報酬は、基本報酬と別に別途業務報酬をいただくことがあ,camera,llama2,5,0,0,0,0
+1182,クラウドPBXおすすめ比較,クラウドPBXおすすめ比較,camera,llama2,0,5,10,0,0
+1183,美瑛の温泉の宿予約,美瑛の温泉宿を予約,camera,llama2,0,5,3,1,6
+1184,VRを活用した体験型学校教育,VRを活用した授業が体験できる学校教育,camera,llama2,0,5,2,6,2
+1185,お金を借りるなら、どこがいい？,お金を借りるなら、何にいい？,camera,llama2,3,2,0,0,0
+1186,料金比較でお得にホテル予約,格安でおすすめのホテルをご紹介,camera,llama2,5,0,0,0,0
+1187,はじめての脱毛デビューなら,はじめての脱毛なら,camera,llama2,0,5,0,7,3
+1188,人探し探偵 おすすめランキング,人探し 探偵 おすすめ,camera,llama2,2,3,0,9,1
+1189,中目黒で当日給料手渡し可能,中目黒でその日その場でお金をもらうことができる,camera,llama2,0,5,1,6,3
+1190,【公式】ピッコマ／待てば無料,ピッコマ／無料で読める漫画が好きなら、今すぐ始めよう！,camera,llama2,4,1,0,0,0
+1191,2024新卒 IT向け就活サイト,2024年新卒、IT業界の就職活動サイト,camera,llama2,0,5,2,6,2
+1192,今すぐネットでかんたん見積り,今すぐネットで一括見積り,camera,llama2,0,5,0,8,2
+1193,低金利の金融機関も比較できる,低コストな資金調達の機会も比べられる,camera,llama2,3,2,0,0,0
+1194,人気の女性向け医療保険,人気の女性向け医療保険,camera,llama2,0,5,9,1,0
+1195,有馬温泉 最安値ホテル,有馬温泉 格安ホテル,camera,llama2,2,3,1,6,3
+1196,すぐに保険の見積もりができます,保険の無料一括見積もりがすぐにできます,camera,llama2,2,3,1,4,5
+1197,dodaは公務員の転職に強い,公務員の経験者・正社員登用の転職に特化したサービスです,camera,llama2,4,1,0,0,0
+1198,このペット保険デメリットある？,このペット保険のデメリットは？,camera,llama2,1,4,1,4,5
+1199,梅田 ホテル 予約,梅田 格安 ホテル 予約,camera,llama2,3,2,0,0,0
+1200,今の電気代と比較してください,今の電気代と比べてみてください,camera,llama2,0,5,2,3,5
+1201,学校で美容を学ぼう！,学校で美容のプロを目指そう！,camera,llama2,1,4,0,1,9
+1202,【必見】車の保険、最安値で！,【最大１０００円／年】車の保険、最安値で検索！,camera,llama2,4,1,0,0,0
+1203,andar通販でセール開催！,andar通販でセール開催！,camera,llama2,0,5,8,2,0
+1204,mitsuiでショッピングを楽しむ！,mitsuiでショッピングを楽しもう！,camera,llama2,0,5,1,4,5
+1205,歯並び矯正なら月4300円！,歯並び矯正が月額4300円でできる！,camera,llama2,0,5,0,3,7
+1206,介護転職ランキングTOP3！,介護職の転職・求人情報ならTOP3！,camera,llama2,1,4,1,6,3
+1207,アートスキル、OCHABIで磨く,アートスキル、OCHABIで磨く。,camera,llama2,0,5,5,2,3
+1208,【大阪】脱毛ならこの5つ！,【大阪】脱毛ならこの5つ！ 人気の脱毛サロン・クリニックを��,camera,llama2,3,2,0,0,0
+1209,最新！借入れ住宅ローン一覧,最新！借入れ住宅ローン一覧,camera,llama2,0,5,9,1,0
+1210,一戸建て査定、すぐに知ろう！,一戸建て査定、いますぐご相談ください,camera,llama2,1,4,0,6,4
+1211,24卒新卒の転職はこちらから,24卒新卒の転職はこちらから,camera,llama2,0,5,10,0,0
+1212,介護事務パート、1日1時間〜OK,介護の現場で必要な事務処理をお手伝いします。1日1時間からでもOK！,camera,llama2,4,1,0,0,0
+1213,珍宴で極上の中国料理を,珍宴で至極の中国料理を,camera,llama2,1,4,0,8,2
+1214,保険料、見直して節約！,保険料、見直しておトク！,camera,llama2,0,5,1,3,6
+1215,戸建て探しは曳舟で決まり！,戸建て探しは曳舟で決まり！ 新築・中古問わず、お客様のご要望に合った物,camera,llama2,4,1,0,0,0
+1216,オンラインでAGA治療始めよう,AGA治療の薬も通販で購入できるようになったので、オンラインで始めて,camera,llama2,1,4,1,8,1
+1217,安い任意保険、今すぐ比較,格安の自動車保険、探せばすぐ見つかる,camera,llama2,4,1,0,0,0
+1218,北海道で不動産転職！,北海道で土地、建物の売却・買取をご検討の方へ,camera,llama2,5,0,0,0,0
+1219,人気のペット保険、見ましたか？,人気のペット保険、見つけましたか？,camera,llama2,0,5,0,3,7
+1220,女性向け！秋冬トレンドシューズ,女性向け！トレンドシューズが満載♪,camera,llama2,4,1,0,0,0
+1221,人気の車リース、その理由は？,人気の車リースの理由は？ お求めやすい価格でご提供しているからです。 お見,camera,llama2,4,1,0,0,0
+1222,"""ラキューテでお得に買物！""",ラキューテで最大６０％OFF！,camera,llama2,4,1,0,0,0
+1223,高松市で最高のホテル,高松市で最高のホテルをご紹介します。,camera,llama2,0,5,1,5,4
+1224,"""市川駅近！理想の戸建て""",理想の戸建てが市川駅近にある,camera,llama2,0,5,0,7,3
+1225,教習ローンなら学生もOK!,,camera,llama2,5,0,0,0,0
+1226,関内の人気ネイルサロン,関内で人気のネイルサロンをご紹介します。,camera,llama2,0,5,0,6,4
+1227,ハップヘアメイクで新髪型,ハップヘアメイクで新髪型,camera,llama2,0,5,9,1,0
+1228,中標津空港近くの便利ホテル,中標津空港近くの格安ホテルが満載！,camera,llama2,3,2,0,0,0
+1229,「映像学ぶなら専門講座へ」,映像のプロを目指すなら、専門の講座へ,camera,llama2,1,4,0,5,5
+1230,じぶん銀行カーローン金利低め,じぶん銀行カーローン金利格段お得,camera,llama2,1,4,0,5,5
+1231,柳瀬川のトップクラス美容院,柳瀬川で一番の美容院,camera,llama2,1,4,1,8,1
+1232,浦和で理想の戸建てを！,浦和で理想の一戸建てを！,camera,llama2,0,5,2,2,6
+1233,カードローンなら銀行安心！,,camera,llama2,5,0,0,0,0
+1234,歯並び矯正なら月4300円！,歯並び矯正が月額4300円でできる！,camera,llama2,0,5,0,2,8
+1235,遺産相続、家や土地を効率的に,遺産相続、家や土地を効率的に活用しましょう。,camera,llama2,0,5,0,5,5
+1236,人気のペット保険、見ましたか？,人気のペット保険、見つけましたか？,camera,llama2,0,5,1,3,6
+1237,【最速】auひかりを体感せよ,【最速】auひかりが今すぐ快適生活を,camera,llama2,2,3,0,5,5
