@@ -6,6 +6,13 @@ This repository contains data for our paper "AdParaphrase: Paraphrase Dataset fo
 
 AdParaphrase is a novel paraphrase dataset that contains human preferences for pairs of ad texts that are semantically equivalent but differ in wording and style. We carefully constructed the dataset by collecting semantically similar ad texts, performing paraphrase identification with five judges per pair, and collecting human preference judgments with ten judges per pair. The dataset allows us to focus on differences in linguistic features between individual ad texts while minimizing the impact of differences in semantic content. Thus, we can analyze human preferences centered on these features.
 
+- **Paper:** [AdParaphrase: Paraphrase Dataset for Analyzing Linguistic Features toward Generating Attractive Ad Texts](https://aclanthology.org/2025.findings-naacl.78/)
+  - Our paper has been accepted to [NAACL2025](https://2025.naacl.org/).
+- **Languages**: All ad texts in AdParaphrase are in Japanese.
+- **Availability**: Our dataset is available on [Github](https://github.com/CyberAgentAILab/AdParaphrase) and [HuggingFace Datasets](https://huggingface.co/datasets/cyberagent/AdParaphrase).
+
+🆕 **AdParaphrase v2.0**: We have released [AdParaphrase v2.0](https://github.com/CyberAgentAILab/AdParaphrase-v2.0), which further expands the scale of the dataset.
+
 ## File format
 
 The AdParaphrase dataset is stored in [data/adparaphrase.csv](data/adparaphrase.csv). The file contains the following columns:
